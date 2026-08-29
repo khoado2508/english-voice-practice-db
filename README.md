@@ -1,15 +1,26 @@
 # English Voice Practice — Question Bank (v1)
 
-Ngân hàng câu hỏi cho **AI Voice Conversation Practice Module** (Beginner & Intermediate), sinh theo đúng cấu trúc tham khảo trong `Database_tieng_anh_mau.md` và các domain/sub-topic mô tả trong `AI_VOICE_CONVERSATION_MODULE.md`.
+Ngan hang cau hoi cho **AI Voice Conversation Practice Module** (Beginner & Intermediate), sinh theo dung cau truc tham khao trong `Database_tieng_anh_mau.md` va cac domain/sub-topic mo ta trong `AI_VOICE_CONVERSATION_MODULE.md`.
 
-- `beginner_questions_100.json` — 100 câu (A1/A2)
-- `intermediate_questions_100.json` — 100 câu (B1/B2)
+## Xem / test truc tiep
 
-> Bản đầy đủ **250 câu/level (500 câu tổng)** đã được gửi trực tiếp cho anh Khoa qua chat (không đưa lên GitHub để tránh file quá nặng khi thao tác). Bộ 100/100 trên GitHub là tập con được lọc đều theo sub-topic từ đúng bộ 250 câu đó — không phải nội dung khác.
+App xem va luyen tap tuong tac (khong can tai file):
 
-## Phân bổ theo topic / sub-topic (mỗi level, trên tổng 100 câu)
+**https://khoado2508.github.io/english-voice-practice-db/**
 
-| Topic | Sub-topic | Số câu |
+App co 2 che do: Duyet danh sach (tim kiem, loc theo Level/Topic/Sub-topic, xem chi tiet tung cau) va Che do luyen tap (flashcard xao tron, an/hien dap an). Cau B2 (idiom/collocation nang cao) duoc danh dau mau do de uu tien review.
+
+## File du lieu
+
+- `beginner_questions_100.json` — 100 cau (A1/A2), duoc app o tren doc truc tiep
+- `intermediate_questions_100.json` — 100 cau (B1/B2), duoc app o tren doc truc tiep
+- `index.html` — app xem/luyen tap (GitHub Pages)
+
+> Ban day du **250 cau/level (500 cau tong)** da duoc gui truc tiep cho anh Khoa qua chat va qua ban xem tuong tac rieng (Claude Artifact link), khong dua len GitHub de tranh file qua nang khi thao tac. Bo 100/100 tren GitHub Pages la tap con duoc loc deu theo sub-topic tu dung bo 250 cau do — khong phai noi dung khac. Neu muon doi ban GitHub Pages nay sang full 500 cau, bao lai de push them.
+
+## Phan bo theo topic / sub-topic (moi level, tren tong 100 cau)
+
+| Topic | Sub-topic | So cau |
 |---|---|---|
 | Office/Business English | Asking for Leave | 9 |
 | Office/Business English | Meeting Clients | 9 |
@@ -25,7 +36,7 @@ Ngân hàng câu hỏi cho **AI Voice Conversation Practice Module** (Beginner &
 | Daily Conversation | Talking About Hobbies | 8 |
 | **Total** | | **100** |
 
-## Schema (mở rộng so với file mẫu)
+## Schema (mo rong so voi file mau)
 
 ```json
 {
@@ -34,22 +45,20 @@ Ngân hàng câu hỏi cho **AI Voice Conversation Practice Module** (Beginner &
   "topic": "Office/Business English | Daily Conversation",
   "sub_topic": "string",
   "difficulty_tier": "A1 | A2 | B1 | B2",
-  "ai_question": "Câu AI hỏi để mở đầu/tiếp tục hội thoại",
-  "sample_pattern": "Câu trả lời mẫu cho người học tham khảo",
-  "keywords": ["từ khoá kỳ vọng xuất hiện trong câu trả lời tốt — dùng để chấm relevance nhanh, không cần gọi AI mỗi câu"],
-  "common_mistakes": ["lỗi thường gặp ứng với câu này — giúp AI bắt lỗi chuẩn và nhanh hơn"],
-  "follow_up_question": "Câu hỏi nối tiếp tự nhiên — hỗ trợ hội thoại multi-turn thay vì hỏi-đáp rời rạc",
-  "grammar_explanation_en": "Giải thích ngắn gọn bằng tiếng Anh",
-  "grammar_explanation_vi": "Giải thích ngắn gọn bằng tiếng Việt"
+  "ai_question": "Cau AI hoi de mo dau/tiep tuc hoi thoai",
+  "sample_pattern": "Cau tra loi mau cho nguoi hoc tham khao",
+  "keywords": ["tu khoa ky vong xuat hien trong cau tra loi tot"],
+  "common_mistakes": ["loi thuong gap ung voi cau nay"],
+  "follow_up_question": "Cau hoi noi tiep tu nhien",
+  "grammar_explanation_en": "Giai thich ngan gon bang tieng Anh",
+  "grammar_explanation_vi": "Giai thich ngan gon bang tieng Viet"
 }
 ```
 
-Beginner tập trung lỗi ngữ pháp cơ bản (to be, thì, mạo từ, số ít/số nhiều, giới từ...). Intermediate tập trung collocation, idiom, professional phrasing, natural expression — đúng tinh thần Part 2 của spec.
-
 ## Validate
 
-Mỗi file đã được kiểm tra: không trùng `id`, không trùng `ai_question`, đủ 12 field bắt buộc, đúng số lượng 100/100, và mỗi entry được verify byte-for-byte (git blob SHA) sau khi push lên GitHub — đảm bảo không bị lỗi cắt/nhòe nội dung trong lúc upload.
+Moi file da duoc kiem tra: khong trung `id`, khong trung `ai_question`, du 12 field bat buoc, dung so luong 100/100, va moi entry duoc verify byte-for-byte (git blob SHA) sau khi push len GitHub — dam bao khong bi loi cat/nhoe noi dung trong luc upload. `index.html` cung duoc verify byte-for-byte va test tai bang trinh duyet headless truoc khi push, xac nhan tai dung 200 cau va khong loi console.
 
-## Ghi chú
+## Ghi chu
 
-Đây là bản v1 (lần đầu) — nội dung do AI soạn dựa trên schema mẫu, **cần anh Khoa review lại một lượt** trước khi đưa vào production (đặc biệt các câu B2 dùng idiom/collocation). Nếu muốn full 500 câu (250/250) trên GitHub thay vì bản rút gọn 100/100 này, báo em để em push thêm.
+Day la ban v1 (lan dau) — noi dung do AI soan dua tren schema mau, **can anh Khoa review lai mot luot** truoc khi dua vao production (dac biet cac cau B2 dung idiom/collocation). Neu muon full 500 cau (250/250) tren GitHub Pages thay vi ban rut gon 100/100 nay, bao em de em push them.
