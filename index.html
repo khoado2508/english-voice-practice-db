@@ -248,6 +248,10 @@
     background:none; border:none; color:var(--muted); font-size:12px;
     text-decoration:underline; text-underline-offset:3px; cursor:pointer; padding:4px;
   }
+  .paused-banner{
+    font-size:13px; font-weight:700; color:var(--primary); background:rgba(47,95,224,.08);
+    border:1px solid var(--primary-2); border-radius:10px; padding:10px 12px; text-align:center;
+  }
 
   /* ---------- Practice: active session ---------- */
   .progress-dots{ display:flex; gap:5px; justify-content:center; flex-wrap:wrap; margin-bottom:14px; }
@@ -287,6 +291,11 @@
     border-radius:10px; padding:10px 12px; font-size:13.5px; color:var(--text); text-align:left;
   }
   .transcript-box.placeholder{ color:var(--muted); font-style:italic; }
+  .hint-vi{
+    width:100%; background:var(--gold-bg); border:1px solid var(--gold); color:var(--text);
+    border-radius:10px; padding:10px 12px; font-size:13.5px; line-height:1.55; text-align:left;
+  }
+  .hint-vi .hint-label{ font-size:10px; letter-spacing:.08em; text-transform:uppercase; color:var(--gold); font-weight:700; margin-bottom:4px; }
   .practice-actions{ display:flex; gap:8px; width:100%; justify-content:center; flex-wrap:wrap; }
   .reveal-panel{
     width:100%; text-align:left; margin-top:6px; padding-top:16px; border-top:1px solid var(--line);
@@ -319,7 +328,7 @@
     </div>
 
     <div class="level-toggle" id="levelToggle">
-      <button data-level="all" class="active">Tất cả</button>
+      <button data-level="all" class="active">All</button>
       <button data-level="Beginner">Beginner</button>
       <button data-level="Intermediate">Intermediate</button>
     </div>
@@ -337,12 +346,12 @@
   <main class="main">
     <div class="topbar">
       <div>
-        <h2 id="viewTitle">Tất cả câu hỏi</h2>
+        <h2 id="viewTitle">All Questions</h2>
         <div class="sub" id="viewSub">—</div>
       </div>
       <div class="mode-tabs" id="modeToggle">
-        <button data-mode="browse" class="active">Duyệt danh sách</button>
-        <button data-mode="practice">Luyện nói</button>
+        <button data-mode="browse" class="active">Browse</button>
+        <button data-mode="practice">Practice</button>
       </div>
     </div>
 
@@ -367,7 +376,7 @@
     topicKey: null,
     search: '',
     mode: 'browse',            // browse | practice
-    practiceStage: 'setup',    // setup | active
+    practiceStage: 'setup',    // setup | active | paused
     micOk: false,
     order: [],
     idx: 0,
@@ -415,7 +424,7 @@
   function renderTopicTree(){
     const el = document.getElementById('topicTree');
     let html = `<div class="tree-item ${!state.topicKey?'active':''}" data-key="">
-      <span>Tất cả topic</span><span class="count">${DATA.length}</span>
+      <span>All Topics</span><span class="count">${DATA.length}</span>
     </div>`;
     Object.keys(TOPIC_TREE).forEach(topic=>{
       const subtopics = TOPIC_TREE[topic];
@@ -430,7 +439,11 @@
     el.innerHTML = html;
     el.querySelectorAll('.tree-item').forEach(node=>{
       node.addEventListener('click', ()=>{
+        clearSessionTimers();
         state.topicKey = node.dataset.key || null;
+        state.practiceStage = 'setup';
+        state.order = [];
+        state.idx = 0;
         renderAll();
       });
     });
@@ -520,7 +533,7 @@
       title.textContent = subtopic || topic;
       sub.textContent = topic + (subtopic ? ' · ' + subtopic : '');
     } else {
-      title.textContent = state.level === 'all' ? 'Tất cả câu hỏi' : state.level;
+      title.textContent = state.level === 'all' ? 'All Questions' : state.level;
       sub.textContent = 'AI Voice Conversation Practice Module — dữ liệu v1';
     }
   }
@@ -648,12 +661,25 @@
   }
 
   /* ============== Active practice session ============== */
-  const RESPONSE_MS = 20000;   // response window cap
   const REVEAL_HOLD_MS = 6000; // auto-advance delay after reveal
+  const hintCache = {};        // item.id -> translated text
+
+  // computes a per-question response window: longer expected answers get more time
+  function computeResponseMs(item){
+    const basisText = (item.sample_pattern || item.ai_question || '');
+    const words = basisText.trim().split(/\s+/).filter(Boolean).length;
+    const ms = 9000 + words * 550; // ~9s thinking + ~550ms per word of the expected answer
+    return Math.max(12000, Math.min(30000, Math.round(ms / 1000) * 1000));
+  }
+
+  // pausable countdown for the response phase
+  const responseState = { remainingMs: 0, totalMs: 0, tickHandle: null, running: false };
 
   function clearSessionTimers(){
     session.timers.forEach(id=>{ clearTimeout(id); clearInterval(id); });
     session.timers = [];
+    responseState.tickHandle = null;
+    responseState.running = false;
     if(session.recognition){
       try{ session.recognition.onresult = null; session.recognition.onerror = null; session.recognition.onend = null; session.recognition.stop(); }catch(e){}
       session.recognition = null;
@@ -671,18 +697,49 @@
     runQuestionCycle();
   }
 
-  function stopSession(){
+  // pause: freeze the current question in place, keep order/idx so Resume continues exactly here
+  function pauseSession(){
     clearSessionTimers();
+    state.practiceStage = 'paused';
+    renderPracticeShell();
+  }
+
+  // resume: continue the SAME question (does not reshuffle or reset progress)
+  function resumeSession(){
+    state.practiceStage = 'active';
+    renderPracticeShell();
+    runQuestionCycle();
+  }
+
+  // end: fully close the session and go back to the setup/filter screen
+  function endSession(){
+    clearSessionTimers();
+    state.order = [];
+    state.idx = 0;
     state.practiceStage = 'setup';
     renderPracticeShell();
   }
 
   function renderPracticeShell(){
-    document.getElementById('practiceSetup').hidden = state.practiceStage !== 'setup';
+    document.getElementById('practiceSetup').hidden = state.practiceStage === 'active';
     document.getElementById('practiceActive').hidden = state.practiceStage !== 'active';
     if(state.practiceStage === 'setup'){
       renderSetup();
+    } else if(state.practiceStage === 'paused'){
+      renderPausedScreen();
     }
+  }
+
+  function renderPausedScreen(){
+    const el = document.getElementById('practiceSetup');
+    el.innerHTML = `
+      <div class="setup-wrap">
+        <div class="paused-banner">⏸ Paused — Question ${state.idx+1} / ${state.order.length}</div>
+        <button class="btn primary wide" id="resumeBtn">▶ Resume</button>
+        <button class="btn wide" id="endSessionBtn">🔁 End session, back to filters</button>
+      </div>`;
+    document.getElementById('resumeBtn').addEventListener('click', resumeSession);
+    document.getElementById('endSessionBtn').addEventListener('click', endSession);
   }
 
   function progressDotsHtml(){
@@ -711,7 +768,7 @@
     clearSessionTimers();
     const rows = filteredData();
     const item = rows[state.order[state.idx]];
-    if(!item){ stopSession(); return; }
+    if(!item){ endSession(); return; }
     const b2 = item.difficulty_tier === 'B2';
     const el = document.getElementById('practiceActive');
     el.innerHTML = `
@@ -732,11 +789,13 @@
         <div style="display:flex;align-items:center;gap:10px;justify-content:center;">
           <div class="practice-question">${escapeHtml(item.ai_question)}</div>
           ${canSynth ? '<button class="speak-btn" id="replayBtn" title="Nghe lại">🔊</button>' : ''}
+          <button class="speak-btn" id="hintBtn" title="Gợi ý nghĩa tiếng Việt">🇻🇳</button>
         </div>
+        <div class="hint-vi" id="hintVi" hidden></div>
         <div class="transcript-box placeholder" id="transcriptBox">${canVoice && state.micOk===true ? 'Đang lắng nghe câu trả lời của anh…' : 'Chế độ thủ công — tự trả lời rồi bấm "Xong".'}</div>
         <div class="practice-actions" id="practiceActions">
           <button class="btn primary" id="doneBtn">✓ Xong, xem đáp án</button>
-          <button class="btn" id="stopSessionBtn">⏸ Dừng buổi luyện tập</button>
+          <button class="btn" id="pauseSessionBtn">⏸ Tạm dừng</button>
         </div>
         <div class="reveal-panel" id="revealPanel" hidden></div>
       </div>
@@ -746,16 +805,17 @@
         <button class="nav-btn" id="nextBtn">Câu tiếp theo →</button>
       </div>
     `;
-    document.getElementById('stopSessionBtn').addEventListener('click', stopSession);
+    document.getElementById('pauseSessionBtn').addEventListener('click', pauseSession);
     document.getElementById('prevBtn').addEventListener('click', ()=>{
       if(state.idx>0){ state.idx--; runQuestionCycle(); }
     });
     document.getElementById('nextBtn').addEventListener('click', ()=>{
       if(state.idx < state.order.length-1){ state.idx++; runQuestionCycle(); }
-      else stopSession();
+      else endSession();
     });
     document.getElementById('doneBtn').addEventListener('click', ()=> finishQuestion(item, 'manual'));
     document.getElementById('replayBtn')?.addEventListener('click', ()=> speak(item.ai_question));
+    document.getElementById('hintBtn').addEventListener('click', ()=> showHint(item));
 
     setRing(1, 0);
 
@@ -765,6 +825,39 @@
     } else {
       beginResponsePhase(item);
     }
+  }
+
+  async function showHint(item){
+    const box = document.getElementById('hintVi');
+    if(!box) return;
+    const wasRunning = responseState.running;
+    if(wasRunning) pauseResponseTimer();
+    box.hidden = false;
+    if(hintCache[item.id]){
+      renderHintBox(box, hintCache[item.id], wasRunning, item);
+      return;
+    }
+    box.innerHTML = `<div class="hint-label">Gợi ý (VI)</div><div>Đang tải bản dịch…</div>`;
+    try{
+      const url = 'https://api.mymemory.translated.net/get?q=' + encodeURIComponent(item.ai_question) + '&langpair=en|vi';
+      const res = await fetch(url);
+      const data = await res.json();
+      const text = data && data.responseData && data.responseData.translatedText ? data.responseData.translatedText : null;
+      if(text){
+        hintCache[item.id] = text;
+        renderHintBox(box, text, wasRunning, item);
+      } else {
+        throw new Error('empty translation');
+      }
+    }catch(err){
+      box.innerHTML = `<div class="hint-label">Gợi ý (VI)</div><div>Không tải được bản dịch, thử lại sau.</div>${wasRunning ? '<button class="btn tiny" id="hintContinueBtn" style="margin-top:8px;">▶ Tiếp tục</button>' : ''}`;
+      document.getElementById('hintContinueBtn')?.addEventListener('click', ()=>{ box.hidden = true; if(wasRunning) resumeResponseTimer(item); });
+    }
+  }
+
+  function renderHintBox(box, text, wasRunning, item){
+    box.innerHTML = `<div class="hint-label">Gợi ý (VI)</div><div>${escapeHtml(text)}</div>${wasRunning ? '<button class="btn tiny" id="hintContinueBtn" style="margin-top:8px;">▶ Tiếp tục</button>' : ''}`;
+    document.getElementById('hintContinueBtn')?.addEventListener('click', ()=>{ box.hidden = true; if(wasRunning) resumeResponseTimer(item); });
   }
 
   function speak(text, onend){
@@ -782,19 +875,45 @@
     const stageLabel = document.getElementById('stageLabel');
     if(!stageLabel) return; // user navigated away
     stageLabel.textContent = 'Đang trả lời';
-    const start = Date.now();
-    session.totalMs = RESPONSE_MS;
+    responseState.totalMs = computeResponseMs(item);
+    responseState.remainingMs = responseState.totalMs;
+    startResponseTick(item);
 
+    if(canVoice && state.micOk === true){
+      startRecognition(item);
+    }
+  }
+
+  function startResponseTick(item){
+    responseState.running = true;
     const tick = setInterval(()=>{
-      const elapsed = Date.now() - start;
-      const remain = Math.max(0, RESPONSE_MS - elapsed);
-      setRing(remain/RESPONSE_MS, remain/1000, {listening: canVoice && state.micOk===true});
-      if(remain <= 0){
+      responseState.remainingMs = Math.max(0, responseState.remainingMs - 200);
+      setRing(responseState.remainingMs/responseState.totalMs, responseState.remainingMs/1000, {listening: canVoice && state.micOk===true});
+      if(responseState.remainingMs <= 0){
+        clearInterval(tick);
+        responseState.running = false;
         finishQuestion(item, 'timeout');
       }
     }, 200);
+    responseState.tickHandle = tick;
     session.timers.push(tick);
+  }
 
+  // pause the response countdown + mic listening (used when Hint is shown), keeping remainingMs intact
+  function pauseResponseTimer(){
+    if(responseState.tickHandle){ clearInterval(responseState.tickHandle); responseState.tickHandle = null; }
+    responseState.running = false;
+    if(session.recognition){
+      try{ session.recognition.onresult = null; session.recognition.onerror = null; session.recognition.onend = null; session.recognition.stop(); }catch(e){}
+      session.recognition = null;
+    }
+  }
+
+  // resume the response countdown from where it was paused (does not reset remainingMs)
+  function resumeResponseTimer(item){
+    if(responseState.running) return;
+    if(responseState.remainingMs <= 0){ finishQuestion(item, 'timeout'); return; }
+    startResponseTick(item);
     if(canVoice && state.micOk === true){
       startRecognition(item);
     }
@@ -882,7 +1001,7 @@
 
     const advance = ()=>{
       if(state.idx < state.order.length-1){ state.idx++; runQuestionCycle(); }
-      else stopSession();
+      else endSession();
     };
     const holdTimer = setTimeout(advance, REVEAL_HOLD_MS);
     session.timers.push(holdTimer);
@@ -914,6 +1033,8 @@
     state.level = btn.dataset.level;
     state.topicKey = null;
     state.practiceStage = 'setup';
+    state.order = [];
+    state.idx = 0;
     document.querySelectorAll('#levelToggle button').forEach(b=>b.classList.toggle('active', b===btn));
     renderAll();
   });
@@ -921,15 +1042,22 @@
   document.getElementById('modeToggle').addEventListener('click', e=>{
     const btn = e.target.closest('button');
     if(!btn) return;
+    const newMode = btn.dataset.mode;
+    if(newMode === state.mode) return;
     clearSessionTimers();
-    state.mode = btn.dataset.mode;
-    state.practiceStage = 'setup';
+    state.mode = newMode;
+    // leaving Practice while a session is running just pauses it — coming back offers Resume, not a restart
+    if(newMode === 'browse' && state.practiceStage === 'active') state.practiceStage = 'paused';
     document.querySelectorAll('#modeToggle button').forEach(b=>b.classList.toggle('active', b===btn));
     renderAll();
   });
 
   document.getElementById('searchInput').addEventListener('input', e=>{
+    clearSessionTimers();
     state.search = e.target.value;
+    state.practiceStage = 'setup';
+    state.order = [];
+    state.idx = 0;
     renderAll();
   });
 
