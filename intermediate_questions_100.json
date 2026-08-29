@@ -1,0 +1,1899 @@
+[
+  {
+    "id": "I_OFF_LEAVE_001",
+    "level": "Intermediate",
+    "topic": "Office/Business English",
+    "sub_topic": "Asking for Leave",
+    "difficulty_tier": "B1",
+    "ai_question": "Could you walk me through why you need to take leave next week?",
+    "sample_pattern": "Sure — I have a family commitment that I can't reschedule, so I'd like to take Wednesday and Thursday off.",
+    "keywords": [
+      "family commitment",
+      "reschedule",
+      "take...off"
+    ],
+    "common_mistakes": [
+      "Overly literal translation instead of the natural collocation 'take days off'"
+    ],
+    "follow_up_question": "Have you arranged for someone to cover your responsibilities while you're away?",
+    "grammar_explanation_en": "Use the natural collocation 'take + day(s) + off', and 'commitment' (not 'business') for a personal obligation.",
+    "grammar_explanation_vi": "Dùng cụm tự nhiên 'take + day(s) + off', và 'commitment' (không phải 'business') cho việc riêng cần giải quyết."
+  },
+  {
+    "id": "I_OFF_LEAVE_002",
+    "level": "Intermediate",
+    "topic": "Office/Business English",
+    "sub_topic": "Asking for Leave",
+    "difficulty_tier": "B1",
+    "ai_question": "How far in advance should employees request leave in your experience?",
+    "sample_pattern": "In my experience, it's best to request leave at least a week in advance so the team can plan around it.",
+    "keywords": [
+      "in advance",
+      "plan around"
+    ],
+    "common_mistakes": [
+      "Using 'plan for it' instead of the more natural 'plan around it'"
+    ],
+    "follow_up_question": "What happens if someone requests leave at the last minute?",
+    "grammar_explanation_en": "'Plan around something' is a natural collocation meaning to arrange things considering that factor.",
+    "grammar_explanation_vi": "'Plan around something' là cụm tự nhiên nghĩa là sắp xếp mọi thứ có tính đến yếu tố đó."
+  },
+  {
+    "id": "I_OFF_LEAVE_003",
+    "level": "Intermediate",
+    "topic": "Office/Business English",
+    "sub_topic": "Asking for Leave",
+    "difficulty_tier": "B2",
+    "ai_question": "What's the best way to break the news to your manager that you need unexpected leave?",
+    "sample_pattern": "I think the best approach is to be upfront about the situation and explain the urgency clearly.",
+    "keywords": [
+      "upfront",
+      "urgency"
+    ],
+    "common_mistakes": [
+      "Using 'direct' instead of the more idiomatic 'upfront'"
+    ],
+    "follow_up_question": "How did your manager react when you explained the urgency?",
+    "grammar_explanation_en": "'Be upfront about something' is a natural idiom meaning to be honest and direct from the start.",
+    "grammar_explanation_vi": "'Be upfront about something' là thành ngữ tự nhiên nghĩa là thẳng thắn, trung thực ngay từ đầu."
+  },
+  {
+    "id": "I_OFF_LEAVE_004",
+    "level": "Intermediate",
+    "topic": "Office/Business English",
+    "sub_topic": "Asking for Leave",
+    "difficulty_tier": "B1",
+    "ai_question": "How do you make sure your work doesn't pile up while you're on leave?",
+    "sample_pattern": "I hand over my tasks to a colleague and leave detailed notes before I go.",
+    "keywords": [
+      "hand over",
+      "detailed notes"
+    ],
+    "common_mistakes": [
+      "Using 'give' instead of the professional collocation 'hand over'"
+    ],
+    "follow_up_question": "How do you choose who to hand your tasks over to?",
+    "grammar_explanation_en": "'Hand over' is the natural professional collocation for transferring responsibility to someone else.",
+    "grammar_explanation_vi": "'Hand over' là cụm chuyên nghiệp tự nhiên khi chuyển giao trách nhiệm cho người khác."
+  },
+  {
+    "id": "I_OFF_LEAVE_005",
+    "level": "Intermediate",
+    "topic": "Office/Business English",
+    "sub_topic": "Asking for Leave",
+    "difficulty_tier": "B2",
+    "ai_question": "Have you ever had a leave request turned down? How did you handle it?",
+    "sample_pattern": "Yes, once — I calmly asked for the reasoning and proposed an alternative date instead.",
+    "keywords": [
+      "turned down",
+      "proposed an alternative"
+    ],
+    "common_mistakes": [
+      "Using 'refused' instead of the more natural phrasal verb 'turned down'"
+    ],
+    "follow_up_question": "Did the alternative date work out in the end?",
+    "grammar_explanation_en": "'Turn down' is a common phrasal verb meaning to reject a request, more natural than 'refuse' in speech.",
+    "grammar_explanation_vi": "'Turn down' là cụm động từ thông dụng nghĩa là từ chối một yêu cầu, tự nhiên hơn 'refuse' khi nói."
+  },
+  {
+    "id": "I_OFF_LEAVE_006",
+    "level": "Intermediate",
+    "topic": "Office/Business English",
+    "sub_topic": "Asking for Leave",
+    "difficulty_tier": "B1",
+    "ai_question": "What's your company's policy on carrying over unused leave days?",
+    "sample_pattern": "We're allowed to carry over up to five days into the next year.",
+    "keywords": [
+      "carry over",
+      "unused leave"
+    ],
+    "common_mistakes": [
+      "Using 'bring over' instead of the correct collocation 'carry over'"
+    ],
+    "follow_up_question": "Do most employees actually use that carry-over option?",
+    "grammar_explanation_en": "'Carry over' is the fixed collocation for moving unused leave to a later period.",
+    "grammar_explanation_vi": "'Carry over' là cụm cố định chỉ việc chuyển ngày nghỉ chưa dùng sang kỳ sau."
+  },
+  {
+    "id": "I_OFF_LEAVE_007",
+    "level": "Intermediate",
+    "topic": "Office/Business English",
+    "sub_topic": "Asking for Leave",
+    "difficulty_tier": "B2",
+    "ai_question": "How do you strike a balance between taking enough time off and not falling behind at work?",
+    "sample_pattern": "I try to plan my leave around slower periods so I don't fall behind on deadlines.",
+    "keywords": [
+      "strike a balance",
+      "fall behind"
+    ],
+    "common_mistakes": [
+      "Using 'find balance' instead of the idiom 'strike a balance'"
+    ],
+    "follow_up_question": "How do you identify which periods are slower at work?",
+    "grammar_explanation_en": "'Strike a balance between A and B' is a natural idiom for finding a compromise between two things.",
+    "grammar_explanation_vi": "'Strike a balance between A and B' là thành ngữ tự nhiên chỉ việc tìm sự cân bằng giữa hai điều."
+  },
+  {
+    "id": "I_OFF_LEAVE_008",
+    "level": "Intermediate",
+    "topic": "Office/Business English",
+    "sub_topic": "Asking for Leave",
+    "difficulty_tier": "B1",
+    "ai_question": "What do you usually do to prepare your team before you go on leave?",
+    "sample_pattern": "I brief my team on ongoing projects and make sure everyone knows their responsibilities.",
+    "keywords": [
+      "brief",
+      "ongoing projects"
+    ],
+    "common_mistakes": [
+      "Using 'tell' instead of the more professional collocation 'brief'"
+    ],
+    "follow_up_question": "How long does it usually take to brief your team?",
+    "grammar_explanation_en": "'Brief someone on something' is the natural professional collocation for giving a concise update.",
+    "grammar_explanation_vi": "'Brief someone on something' là cụm chuyên nghiệp tự nhiên khi cung cấp thông tin ngắn gọn."
+  },
+  {
+    "id": "I_OFF_LEAVE_009",
+    "level": "Intermediate",
+    "topic": "Office/Business English",
+    "sub_topic": "Asking for Leave",
+    "difficulty_tier": "B2",
+    "ai_question": "How do you feel about employees who take leave right before a big deadline?",
+    "sample_pattern": "It can be frustrating, but as long as they've handed things over properly, it usually works out.",
+    "keywords": [
+      "frustrating",
+      "works out"
+    ],
+    "common_mistakes": [
+      "Using 'become good' instead of the natural phrase 'work out'"
+    ],
+    "follow_up_question": "What would you do differently in that situation?",
+    "grammar_explanation_en": "'Work out' means to happen successfully in the end — a natural, common expression.",
+    "grammar_explanation_vi": "'Work out' nghĩa là cuối cùng diễn ra suôn sẻ — cách diễn đạt tự nhiên, thông dụng."
+  },
+  {
+    "id": "I_OFF_CLIENT_001",
+    "level": "Intermediate",
+    "topic": "Office/Business English",
+    "sub_topic": "Meeting Clients",
+    "difficulty_tier": "B1",
+    "ai_question": "How should we approach the client's budget concerns in tomorrow's meeting?",
+    "sample_pattern": "We should emphasize the long-term ROI and propose a phased payment plan to alleviate their financial pressure.",
+    "keywords": [
+      "emphasize ROI",
+      "phased payment plan"
+    ],
+    "common_mistakes": [
+      "Using simple words like 'good money back' instead of the collocation 'ROI'"
+    ],
+    "follow_up_question": "Do you think the client will accept a phased plan?",
+    "grammar_explanation_en": "Use professional collocations like 'emphasize ROI' and 'phased payment plan' instead of simple, generic words.",
+    "grammar_explanation_vi": "Sử dụng các cụm từ chuyên nghiệp như 'emphasize ROI' và 'phased payment plan' thay cho từ vựng thông thường."
+  },
+  {
+    "id": "I_OFF_CLIENT_002",
+    "level": "Intermediate",
+    "topic": "Office/Business English",
+    "sub_topic": "Meeting Clients",
+    "difficulty_tier": "B2",
+    "ai_question": "What's the best way to build rapport with a client you're meeting for the first time?",
+    "sample_pattern": "I usually start with some small talk and show genuine interest in their business before diving into the agenda.",
+    "keywords": [
+      "build rapport",
+      "small talk"
+    ],
+    "common_mistakes": [
+      "Using 'make friend' instead of the professional collocation 'build rapport'"
+    ],
+    "follow_up_question": "How do you know when it's the right time to move on to business?",
+    "grammar_explanation_en": "'Build rapport' is the standard professional collocation for establishing a friendly, trusting relationship.",
+    "grammar_explanation_vi": "'Build rapport' là cụm chuyên nghiệp chuẩn để nói về việc xây dựng mối quan hệ thân thiện, tin cậy."
+  },
+  {
+    "id": "I_OFF_CLIENT_003",
+    "level": "Intermediate",
+    "topic": "Office/Business English",
+    "sub_topic": "Meeting Clients",
+    "difficulty_tier": "B1",
+    "ai_question": "How do you handle it when a client pushes back on your proposal?",
+    "sample_pattern": "I try to understand their concerns first, then address each point with data to back up our position.",
+    "keywords": [
+      "pushes back",
+      "back up"
+    ],
+    "common_mistakes": [
+      "Using 'says no' instead of the natural phrasal verb 'pushes back'"
+    ],
+    "follow_up_question": "Can you give an example of data that changed a client's mind?",
+    "grammar_explanation_en": "'Push back' is a natural phrasal verb meaning to resist or object to a proposal.",
+    "grammar_explanation_vi": "'Push back' là cụm động từ tự nhiên nghĩa là phản đối hoặc từ chối một đề xuất."
+  },
+  {
+    "id": "I_OFF_CLIENT_004",
+    "level": "Intermediate",
+    "topic": "Office/Business English",
+    "sub_topic": "Meeting Clients",
+    "difficulty_tier": "B2",
+    "ai_question": "What's your strategy for keeping a client engaged during a long presentation?",
+    "sample_pattern": "I break the content into short segments and check in with questions to keep them involved.",
+    "keywords": [
+      "check in",
+      "keep them involved"
+    ],
+    "common_mistakes": [
+      "Using 'ask them' instead of the natural collocation 'check in'"
+    ],
+    "follow_up_question": "How often do you pause to check in with the audience?",
+    "grammar_explanation_en": "'Check in with someone' means to briefly interact to see how they are following — a natural collocation.",
+    "grammar_explanation_vi": "'Check in with someone' nghĩa là tương tác ngắn để xem họ có theo kịp không — cụm từ tự nhiên."
+  },
+  {
+    "id": "I_OFF_CLIENT_005",
+    "level": "Intermediate",
+    "topic": "Office/Business English",
+    "sub_topic": "Meeting Clients",
+    "difficulty_tier": "B1",
+    "ai_question": "How do you follow up with a client after a meeting that didn't go as planned?",
+    "sample_pattern": "I send a summary email addressing their concerns and propose next steps to move forward.",
+    "keywords": [
+      "addressing",
+      "next steps"
+    ],
+    "common_mistakes": [
+      "Using 'talk about' instead of the more formal 'address'"
+    ],
+    "follow_up_question": "What tone do you try to strike in that follow-up email?",
+    "grammar_explanation_en": "'Address a concern' is more professional and precise than 'talk about a concern'.",
+    "grammar_explanation_vi": "'Address a concern' trang trọng và chính xác hơn 'talk about a concern'."
+  },
+  {
+    "id": "I_OFF_CLIENT_006",
+    "level": "Intermediate",
+    "topic": "Office/Business English",
+    "sub_topic": "Meeting Clients",
+    "difficulty_tier": "B2",
+    "ai_question": "What's the most effective way to negotiate pricing with a demanding client?",
+    "sample_pattern": "I try to find a middle ground by bundling services instead of simply cutting the price.",
+    "keywords": [
+      "middle ground",
+      "bundling"
+    ],
+    "common_mistakes": [
+      "Using 'half way' instead of the idiom 'middle ground'"
+    ],
+    "follow_up_question": "Have you ever lost a deal because you couldn't find that middle ground?",
+    "grammar_explanation_en": "'Find a middle ground' is an idiom meaning to reach a compromise both sides accept.",
+    "grammar_explanation_vi": "'Find a middle ground' là thành ngữ nghĩa là đạt được thỏa hiệp mà cả hai bên chấp nhận."
+  },
+  {
+    "id": "I_OFF_CLIENT_007",
+    "level": "Intermediate",
+    "topic": "Office/Business English",
+    "sub_topic": "Meeting Clients",
+    "difficulty_tier": "B1",
+    "ai_question": "How do you make sure the client feels heard during a difficult conversation?",
+    "sample_pattern": "I actively listen, paraphrase their concerns, and acknowledge their frustration before responding.",
+    "keywords": [
+      "actively listen",
+      "acknowledge"
+    ],
+    "common_mistakes": [
+      "Using 'listen good' instead of the correct collocation 'actively listen'"
+    ],
+    "follow_up_question": "How do you usually paraphrase a client's concern?",
+    "grammar_explanation_en": "'Actively listen' is the correct collocation for attentive, engaged listening in a professional context.",
+    "grammar_explanation_vi": "'Actively listen' là cụm đúng để diễn tả việc lắng nghe chăm chú, có tương tác trong bối cảnh chuyên nghiệp."
+  },
+  {
+    "id": "I_OFF_CLIENT_008",
+    "level": "Intermediate",
+    "topic": "Office/Business English",
+    "sub_topic": "Meeting Clients",
+    "difficulty_tier": "B2",
+    "ai_question": "How do you prepare when you know a client meeting might get tense?",
+    "sample_pattern": "I anticipate their objections in advance and rehearse calm, fact-based responses.",
+    "keywords": [
+      "anticipate objections",
+      "fact-based"
+    ],
+    "common_mistakes": [
+      "Using 'guess what they say' instead of the professional term 'anticipate objections'"
+    ],
+    "follow_up_question": "What's an objection you often anticipate from clients?",
+    "grammar_explanation_en": "'Anticipate objections' is standard business vocabulary for preparing for pushback in advance.",
+    "grammar_explanation_vi": "'Anticipate objections' là từ vựng kinh doanh chuẩn khi chuẩn bị trước cho sự phản đối."
+  },
+  {
+    "id": "I_OFF_CLIENT_009",
+    "level": "Intermediate",
+    "topic": "Office/Business English",
+    "sub_topic": "Meeting Clients",
+    "difficulty_tier": "B1",
+    "ai_question": "What do you do if a client asks a question you don't know the answer to?",
+    "sample_pattern": "I admit I'm not sure and promise to follow up with accurate information as soon as possible.",
+    "keywords": [
+      "follow up",
+      "accurate information"
+    ],
+    "common_mistakes": [
+      "Using 'answer back later' instead of the natural collocation 'follow up'"
+    ],
+    "follow_up_question": "How quickly do you usually get back to them?",
+    "grammar_explanation_en": "'Follow up with information' is the natural professional way to describe providing a delayed answer.",
+    "grammar_explanation_vi": "'Follow up with information' là cách diễn đạt chuyên nghiệp tự nhiên khi trả lời sau."
+  },
+  {
+    "id": "I_OFF_TEAM_001",
+    "level": "Intermediate",
+    "topic": "Office/Business English",
+    "sub_topic": "Team Meetings",
+    "difficulty_tier": "B1",
+    "ai_question": "What do you think makes a team meeting actually productive?",
+    "sample_pattern": "Having a clear agenda and sticking to time limits makes a huge difference in keeping things productive.",
+    "keywords": [
+      "clear agenda",
+      "sticking to"
+    ],
+    "common_mistakes": [
+      "Using 'follow the time' instead of the natural collocation 'stick to time limits'"
+    ],
+    "follow_up_question": "What happens in your meetings when discussions go off topic?",
+    "grammar_explanation_en": "'Stick to' is the natural collocation for adhering to a plan, agenda, or limit.",
+    "grammar_explanation_vi": "'Stick to' là cụm tự nhiên khi nói về việc tuân thủ kế hoạch, chương trình hoặc giới hạn."
+  },
+  {
+    "id": "I_OFF_TEAM_002",
+    "level": "Intermediate",
+    "topic": "Office/Business English",
+    "sub_topic": "Team Meetings",
+    "difficulty_tier": "B2",
+    "ai_question": "How do you handle a team member who dominates every meeting?",
+    "sample_pattern": "I usually create space for others by directly inviting quieter members to share their input.",
+    "keywords": [
+      "create space",
+      "input"
+    ],
+    "common_mistakes": [
+      "Using 'give chance' instead of the natural collocation 'create space'"
+    ],
+    "follow_up_question": "How do quieter team members usually respond when invited to speak?",
+    "grammar_explanation_en": "'Create space for someone' is a natural collocation meaning to give someone an opportunity to contribute.",
+    "grammar_explanation_vi": "'Create space for someone' là cụm tự nhiên nghĩa là tạo cơ hội cho ai đó đóng góp ý kiến."
+  },
+  {
+    "id": "I_OFF_TEAM_003",
+    "level": "Intermediate",
+    "topic": "Office/Business English",
+    "sub_topic": "Team Meetings",
+    "difficulty_tier": "B1",
+    "ai_question": "How do you keep remote team members engaged during meetings?",
+    "sample_pattern": "We make sure everyone has a chance to speak and use interactive tools like polls to keep it lively.",
+    "keywords": [
+      "chance to speak",
+      "interactive tools"
+    ],
+    "common_mistakes": [
+      "Using 'active tools' instead of the correct adjective 'interactive'"
+    ],
+    "follow_up_question": "What tools have worked best for your remote meetings?",
+    "grammar_explanation_en": "'Interactive tools' (not 'active tools') is the correct term for tools that involve participant engagement.",
+    "grammar_explanation_vi": "'Interactive tools' (không phải 'active tools') là thuật ngữ đúng chỉ công cụ có sự tương tác."
+  },
+  {
+    "id": "I_OFF_TEAM_004",
+    "level": "Intermediate",
+    "topic": "Office/Business English",
+    "sub_topic": "Team Meetings",
+    "difficulty_tier": "B2",
+    "ai_question": "What's your take on meetings that could have been an email instead?",
+    "sample_pattern": "Honestly, they're a waste of time — if there's no discussion needed, a quick update should suffice.",
+    "keywords": [
+      "waste of time",
+      "suffice"
+    ],
+    "common_mistakes": [
+      "Using 'is enough' instead of the more formal 'suffice'"
+    ],
+    "follow_up_question": "How do you decide whether something needs a meeting or just an email?",
+    "grammar_explanation_en": "'Suffice' is a more formal, precise verb meaning 'to be enough' in professional contexts.",
+    "grammar_explanation_vi": "'Suffice' là động từ trang trọng, chính xác hơn nghĩa là 'đủ' trong bối cảnh công việc."
+  },
+  {
+    "id": "I_OFF_TEAM_005",
+    "level": "Intermediate",
+    "topic": "Office/Business English",
+    "sub_topic": "Team Meetings",
+    "difficulty_tier": "B1",
+    "ai_question": "How do you make sure action items from meetings actually get done?",
+    "sample_pattern": "We assign clear owners and deadlines to each action item and follow up in the next meeting.",
+    "keywords": [
+      "action items",
+      "assign owners"
+    ],
+    "common_mistakes": [
+      "Using 'jobs' instead of the standard business term 'action items'"
+    ],
+    "follow_up_question": "What happens if someone misses their deadline?",
+    "grammar_explanation_en": "'Action items' is standard business vocabulary for tasks agreed on during a meeting.",
+    "grammar_explanation_vi": "'Action items' là từ vựng kinh doanh chuẩn chỉ các công việc được thống nhất trong cuộc họp."
+  },
+  {
+    "id": "I_OFF_TEAM_006",
+    "level": "Intermediate",
+    "topic": "Office/Business English",
+    "sub_topic": "Team Meetings",
+    "difficulty_tier": "B2",
+    "ai_question": "What's the best way to handle disagreements between team members in a meeting?",
+    "sample_pattern": "I try to steer the discussion toward common ground rather than letting it become a personal conflict.",
+    "keywords": [
+      "common ground",
+      "personal conflict"
+    ],
+    "common_mistakes": [
+      "Using 'same idea' instead of the idiom 'common ground'"
+    ],
+    "follow_up_question": "Have you ever had to step in and mediate a disagreement?",
+    "grammar_explanation_en": "'Find/steer toward common ground' is an idiom for identifying shared points of agreement.",
+    "grammar_explanation_vi": "'Find/steer toward common ground' là thành ngữ chỉ việc tìm điểm chung để thống nhất."
+  },
+  {
+    "id": "I_OFF_TEAM_007",
+    "level": "Intermediate",
+    "topic": "Office/Business English",
+    "sub_topic": "Team Meetings",
+    "difficulty_tier": "B1",
+    "ai_question": "How often should a team touch base as a group?",
+    "sample_pattern": "I think touching base once a week is enough to stay aligned without wasting too much time.",
+    "keywords": [
+      "touch base",
+      "stay aligned"
+    ],
+    "common_mistakes": [
+      "Using 'contact' instead of the natural idiom 'touch base'"
+    ],
+    "follow_up_question": "What do you usually cover when the team touches base?",
+    "grammar_explanation_en": "'Touch base' is a natural idiom meaning to briefly connect or check in with someone.",
+    "grammar_explanation_vi": "'Touch base' là thành ngữ tự nhiên nghĩa là liên hệ hoặc trao đổi ngắn gọn với ai đó."
+  },
+  {
+    "id": "I_OFF_TEAM_008",
+    "level": "Intermediate",
+    "topic": "Office/Business English",
+    "sub_topic": "Team Meetings",
+    "difficulty_tier": "B2",
+    "ai_question": "How do you keep meetings on track when the discussion keeps drifting?",
+    "sample_pattern": "I gently redirect the conversation back to the agenda and note off-topic points for later.",
+    "keywords": [
+      "redirect",
+      "off-topic"
+    ],
+    "common_mistakes": [
+      "Using 'not related' instead of the standard term 'off-topic'"
+    ],
+    "follow_up_question": "Where do you usually note down those off-topic points?",
+    "grammar_explanation_en": "'Off-topic' is the standard term for something unrelated to the current discussion.",
+    "grammar_explanation_vi": "'Off-topic' là thuật ngữ chuẩn chỉ điều không liên quan đến chủ đề đang thảo luận."
+  },
+  {
+    "id": "I_OFF_TEAM_009",
+    "level": "Intermediate",
+    "topic": "Office/Business English",
+    "sub_topic": "Team Meetings",
+    "difficulty_tier": "B1",
+    "ai_question": "What role do you usually play in team meetings?",
+    "sample_pattern": "I usually take the lead on technical topics and let others handle the scheduling side.",
+    "keywords": [
+      "take the lead"
+    ],
+    "common_mistakes": [
+      "Using 'be the leader' awkwardly instead of the natural phrase 'take the lead'"
+    ],
+    "follow_up_question": "How did you become the go-to person for technical topics?",
+    "grammar_explanation_en": "'Take the lead on something' is the natural way to describe being responsible for a topic.",
+    "grammar_explanation_vi": "'Take the lead on something' là cách diễn đạt tự nhiên khi chịu trách nhiệm về một chủ đề."
+  },
+  {
+    "id": "I_OFF_UPDATE_001",
+    "level": "Intermediate",
+    "topic": "Office/Business English",
+    "sub_topic": "Giving Updates",
+    "difficulty_tier": "B1",
+    "ai_question": "How do you summarize a complex project update for busy stakeholders?",
+    "sample_pattern": "I focus on the key milestones and flag any risks upfront so they can quickly grasp the big picture.",
+    "keywords": [
+      "key milestones",
+      "flag risks"
+    ],
+    "common_mistakes": [
+      "Using 'show problems' instead of the professional collocation 'flag risks'"
+    ],
+    "follow_up_question": "How do you decide which risks are worth flagging?",
+    "grammar_explanation_en": "'Flag a risk' is standard business vocabulary for pointing out a potential issue proactively.",
+    "grammar_explanation_vi": "'Flag a risk' là từ vựng kinh doanh chuẩn khi chủ động chỉ ra một rủi ro tiềm ẩn."
+  },
+  {
+    "id": "I_OFF_UPDATE_002",
+    "level": "Intermediate",
+    "topic": "Office/Business English",
+    "sub_topic": "Giving Updates",
+    "difficulty_tier": "B2",
+    "ai_question": "What's the best way to deliver bad news in a status update?",
+    "sample_pattern": "I lead with the facts, take ownership if needed, and immediately follow up with a plan to fix it.",
+    "keywords": [
+      "take ownership",
+      "lead with"
+    ],
+    "common_mistakes": [
+      "Using 'accept the mistake' instead of the professional phrase 'take ownership'"
+    ],
+    "follow_up_question": "How does your manager usually respond when you take ownership like that?",
+    "grammar_explanation_en": "'Take ownership' is professional vocabulary for accepting responsibility for an outcome.",
+    "grammar_explanation_vi": "'Take ownership' là từ vựng chuyên nghiệp chỉ việc nhận trách nhiệm về kết quả."
+  },
+  {
+    "id": "I_OFF_UPDATE_003",
+    "level": "Intermediate",
+    "topic": "Office/Business English",
+    "sub_topic": "Giving Updates",
+    "difficulty_tier": "B1",
+    "ai_question": "How do you keep your manager in the loop without over-communicating?",
+    "sample_pattern": "I send a concise update once a week and only reach out sooner if something urgent comes up.",
+    "keywords": [
+      "keep...in the loop",
+      "concise"
+    ],
+    "common_mistakes": [
+      "Using 'tell everything' instead of the idiom 'keep in the loop'"
+    ],
+    "follow_up_question": "What counts as urgent enough to reach out sooner?",
+    "grammar_explanation_en": "'Keep someone in the loop' is an idiom meaning to keep them informed appropriately.",
+    "grammar_explanation_vi": "'Keep someone in the loop' là thành ngữ nghĩa là luôn cập nhật thông tin cho ai đó."
+  },
+  {
+    "id": "I_OFF_UPDATE_004",
+    "level": "Intermediate",
+    "topic": "Office/Business English",
+    "sub_topic": "Giving Updates",
+    "difficulty_tier": "B2",
+    "ai_question": "How do you present a status update when a project is behind schedule?",
+    "sample_pattern": "I'm upfront about the delay, explain the root cause, and outline a realistic path to get back on track.",
+    "keywords": [
+      "root cause",
+      "back on track"
+    ],
+    "common_mistakes": [
+      "Using 'main reason' loosely instead of the precise term 'root cause'"
+    ],
+    "follow_up_question": "What usually causes projects to fall behind in your experience?",
+    "grammar_explanation_en": "'Root cause' is precise professional terminology for the fundamental reason behind a problem.",
+    "grammar_explanation_vi": "'Root cause' là thuật ngữ chuyên nghiệp chính xác chỉ nguyên nhân gốc rễ của vấn đề."
+  },
+  {
+    "id": "I_OFF_UPDATE_005",
+    "level": "Intermediate",
+    "topic": "Office/Business English",
+    "sub_topic": "Giving Updates",
+    "difficulty_tier": "B1",
+    "ai_question": "What format do you prefer for giving weekly updates — written or verbal?",
+    "sample_pattern": "I prefer written updates because they're easier to reference later and keep everyone accountable.",
+    "keywords": [
+      "easier to reference",
+      "accountable"
+    ],
+    "common_mistakes": [
+      "Using 'look back' loosely instead of the professional verb 'reference'"
+    ],
+    "follow_up_question": "Do you think verbal updates have any advantage over written ones?",
+    "grammar_explanation_en": "'Reference' as a verb means to refer back to something later — precise professional usage.",
+    "grammar_explanation_vi": "'Reference' dùng như động từ nghĩa là tham chiếu lại sau này — cách dùng chuyên nghiệp chính xác."
+  },
+  {
+    "id": "I_OFF_UPDATE_006",
+    "level": "Intermediate",
+    "topic": "Office/Business English",
+    "sub_topic": "Giving Updates",
+    "difficulty_tier": "B2",
+    "ai_question": "How do you handle giving an update when you genuinely have no progress to report?",
+    "sample_pattern": "I'm honest about the blocker and focus the update on what I plan to do to move things forward.",
+    "keywords": [
+      "blocker",
+      "move things forward"
+    ],
+    "common_mistakes": [
+      "Using 'problem' loosely instead of the precise project term 'blocker'"
+    ],
+    "follow_up_question": "What's a blocker you've faced recently?",
+    "grammar_explanation_en": "'Blocker' is precise project-management terminology for something preventing progress.",
+    "grammar_explanation_vi": "'Blocker' là thuật ngữ quản lý dự án chính xác chỉ điều đang cản trở tiến độ."
+  },
+  {
+    "id": "I_OFF_UPDATE_007",
+    "level": "Intermediate",
+    "topic": "Office/Business English",
+    "sub_topic": "Giving Updates",
+    "difficulty_tier": "B1",
+    "ai_question": "How detailed should a status update be for senior management?",
+    "sample_pattern": "It should be high-level, focusing on outcomes rather than the day-to-day details.",
+    "keywords": [
+      "high-level",
+      "outcomes"
+    ],
+    "common_mistakes": [
+      "Using 'big level' instead of the correct term 'high-level'"
+    ],
+    "follow_up_question": "How do you decide what counts as a day-to-day detail versus an outcome?",
+    "grammar_explanation_en": "'High-level' is the correct term for a broad, summary-style overview rather than fine detail.",
+    "grammar_explanation_vi": "'High-level' là thuật ngữ đúng chỉ cái nhìn tổng quan thay vì chi tiết cụ thể."
+  },
+  {
+    "id": "I_OFF_UPDATE_008",
+    "level": "Intermediate",
+    "topic": "Office/Business English",
+    "sub_topic": "Giving Updates",
+    "difficulty_tier": "B2",
+    "ai_question": "How do you make sure your updates don't sound repetitive week after week?",
+    "sample_pattern": "I try to highlight what's genuinely new and connect it back to the bigger project goals.",
+    "keywords": [
+      "highlight",
+      "bigger project goals"
+    ],
+    "common_mistakes": [
+      "Using 'show' loosely instead of the more precise verb 'highlight'"
+    ],
+    "follow_up_question": "How do you tie weekly progress back to bigger goals?",
+    "grammar_explanation_en": "'Highlight' means to draw attention to something important — more precise than a generic verb like 'show'.",
+    "grammar_explanation_vi": "'Highlight' nghĩa là làm nổi bật điều quan trọng — chính xác hơn động từ chung chung như 'show'."
+  },
+  {
+    "id": "I_OFF_UPDATE_009",
+    "level": "Intermediate",
+    "topic": "Office/Business English",
+    "sub_topic": "Giving Updates",
+    "difficulty_tier": "B1",
+    "ai_question": "What do you do if your update reveals a mistake you made?",
+    "sample_pattern": "I own up to it right away and explain what I'm doing to correct it.",
+    "keywords": [
+      "own up to",
+      "correct it"
+    ],
+    "common_mistakes": [
+      "Using 'say sorry' loosely instead of the idiom 'own up to'"
+    ],
+    "follow_up_question": "How do people usually react when you own up to a mistake quickly?",
+    "grammar_explanation_en": "'Own up to something' is an idiom meaning to admit responsibility for a mistake.",
+    "grammar_explanation_vi": "'Own up to something' là thành ngữ nghĩa là thừa nhận trách nhiệm về một sai lầm."
+  },
+  {
+    "id": "I_OFF_INTERVIEW_001",
+    "level": "Intermediate",
+    "topic": "Office/Business English",
+    "sub_topic": "Job Interviews",
+    "difficulty_tier": "B1",
+    "ai_question": "Can you walk me through a project you're particularly proud of?",
+    "sample_pattern": "Sure — I led a redesign that cut our processing time in half, which really boosted team morale.",
+    "keywords": [
+      "walk me through",
+      "boosted morale"
+    ],
+    "common_mistakes": [
+      "Using 'tell about' loosely instead of the natural collocation 'walk me through'"
+    ],
+    "follow_up_question": "What was the biggest obstacle you faced during that project?",
+    "grammar_explanation_en": "'Walk someone through something' is a natural collocation for explaining a process step by step.",
+    "grammar_explanation_vi": "'Walk someone through something' là cụm tự nhiên khi giải thích một quy trình từng bước."
+  },
+  {
+    "id": "I_OFF_INTERVIEW_002",
+    "level": "Intermediate",
+    "topic": "Office/Business English",
+    "sub_topic": "Job Interviews",
+    "difficulty_tier": "B2",
+    "ai_question": "How do you handle constructive criticism from a manager?",
+    "sample_pattern": "I try to take it in stride and look for the actionable takeaway rather than getting defensive.",
+    "keywords": [
+      "take it in stride",
+      "actionable takeaway"
+    ],
+    "common_mistakes": [
+      "Using 'accept it calm' instead of the idiom 'take it in stride'"
+    ],
+    "follow_up_question": "Can you give an example of feedback that changed how you work?",
+    "grammar_explanation_en": "'Take something in stride' is an idiom meaning to handle a difficulty calmly without being upset.",
+    "grammar_explanation_vi": "'Take something in stride' là thành ngữ nghĩa là bình tĩnh đón nhận khó khăn mà không bực bội."
+  },
+  {
+    "id": "I_OFF_INTERVIEW_003",
+    "level": "Intermediate",
+    "topic": "Office/Business English",
+    "sub_topic": "Job Interviews",
+    "difficulty_tier": "B1",
+    "ai_question": "What would your previous manager say is your greatest strength?",
+    "sample_pattern": "They'd probably say I'm reliable and always follow through on my commitments.",
+    "keywords": [
+      "reliable",
+      "follow through"
+    ],
+    "common_mistakes": [
+      "Using 'finish it' loosely instead of the professional collocation 'follow through'"
+    ],
+    "follow_up_question": "Can you share a time you followed through under pressure?",
+    "grammar_explanation_en": "'Follow through on something' is a natural collocation for completing what you promised.",
+    "grammar_explanation_vi": "'Follow through on something' là cụm tự nhiên khi hoàn thành điều đã cam kết."
+  },
+  {
+    "id": "I_OFF_INTERVIEW_004",
+    "level": "Intermediate",
+    "topic": "Office/Business English",
+    "sub_topic": "Job Interviews",
+    "difficulty_tier": "B2",
+    "ai_question": "Describe a time you had to think on your feet.",
+    "sample_pattern": "During a client demo, the system crashed, so I improvised a manual walkthrough to keep things on track.",
+    "keywords": [
+      "think on your feet",
+      "improvised"
+    ],
+    "common_mistakes": [
+      "Using 'think fast' loosely instead of the idiom 'think on your feet'"
+    ],
+    "follow_up_question": "How did the client react to your improvisation?",
+    "grammar_explanation_en": "'Think on your feet' is an idiom meaning to react quickly and effectively in the moment.",
+    "grammar_explanation_vi": "'Think on your feet' là thành ngữ nghĩa là phản ứng nhanh và hiệu quả ngay tại chỗ."
+  },
+  {
+    "id": "I_OFF_INTERVIEW_005",
+    "level": "Intermediate",
+    "topic": "Office/Business English",
+    "sub_topic": "Job Interviews",
+    "difficulty_tier": "B1",
+    "ai_question": "How do you prioritize tasks when everything feels urgent?",
+    "sample_pattern": "I assess the impact of each task first and tackle the ones that unblock the most work for others.",
+    "keywords": [
+      "assess impact",
+      "unblock"
+    ],
+    "common_mistakes": [
+      "Using 'check' loosely instead of the precise verb 'assess'"
+    ],
+    "follow_up_question": "Can you give an example of a task you deprioritized and why?",
+    "grammar_explanation_en": "'Assess impact' is precise professional vocabulary for evaluating how significant something is.",
+    "grammar_explanation_vi": "'Assess impact' là từ vựng chuyên nghiệp chính xác chỉ việc đánh giá mức độ ảnh hưởng."
+  },
+  {
+    "id": "I_OFF_INTERVIEW_006",
+    "level": "Intermediate",
+    "topic": "Office/Business English",
+    "sub_topic": "Job Interviews",
+    "difficulty_tier": "B2",
+    "ai_question": "What draws you to this particular role?",
+    "sample_pattern": "I'm genuinely drawn to the chance to work cross-functionally and grow into a leadership position.",
+    "keywords": [
+      "cross-functionally",
+      "drawn to"
+    ],
+    "common_mistakes": [
+      "Using 'like' loosely instead of the more expressive phrase 'drawn to'"
+    ],
+    "follow_up_question": "What does growing into leadership look like for you?",
+    "grammar_explanation_en": "'Be drawn to something' is a more expressive, natural way to say you find something appealing.",
+    "grammar_explanation_vi": "'Be drawn to something' là cách diễn đạt sinh động, tự nhiên hơn để nói mình bị thu hút bởi điều gì."
+  },
+  {
+    "id": "I_OFF_INTERVIEW_007",
+    "level": "Intermediate",
+    "topic": "Office/Business English",
+    "sub_topic": "Job Interviews",
+    "difficulty_tier": "B1",
+    "ai_question": "How do you approach working with a difficult colleague?",
+    "sample_pattern": "I try to find common ground and keep communication professional, even when we disagree.",
+    "keywords": [
+      "common ground",
+      "keep it professional"
+    ],
+    "common_mistakes": [
+      "Using 'be nice' vaguely instead of the precise phrase 'keep communication professional'"
+    ],
+    "follow_up_question": "Can you describe a specific disagreement you resolved this way?",
+    "grammar_explanation_en": "'Keep communication professional' is a precise phrase for maintaining appropriate workplace conduct.",
+    "grammar_explanation_vi": "'Keep communication professional' là cụm chính xác chỉ việc giữ thái độ giao tiếp đúng mực nơi công sở."
+  },
+  {
+    "id": "I_OFF_INTERVIEW_008",
+    "level": "Intermediate",
+    "topic": "Office/Business English",
+    "sub_topic": "Job Interviews",
+    "difficulty_tier": "B2",
+    "ai_question": "What's a skill gap you're actively working to close?",
+    "sample_pattern": "I'm working on improving my public speaking, so I've started volunteering to lead more presentations.",
+    "keywords": [
+      "skill gap",
+      "closing the gap"
+    ],
+    "common_mistakes": [
+      "Using 'weak point' loosely instead of the professional term 'skill gap'"
+    ],
+    "follow_up_question": "What progress have you noticed so far?",
+    "grammar_explanation_en": "'Skill gap' is standard professional vocabulary for an area needing development.",
+    "grammar_explanation_vi": "'Skill gap' là từ vựng chuyên nghiệp chuẩn chỉ lĩnh vực cần được phát triển thêm."
+  },
+  {
+    "id": "I_OFF_PRESENT_001",
+    "level": "Intermediate",
+    "topic": "Office/Business English",
+    "sub_topic": "Presentations",
+    "difficulty_tier": "B1",
+    "ai_question": "How do you hook your audience in the first minute of a presentation?",
+    "sample_pattern": "I usually open with a surprising statistic or a quick story that ties directly into the main point.",
+    "keywords": [
+      "hook",
+      "ties into"
+    ],
+    "common_mistakes": [
+      "Using 'catch attention' loosely instead of the natural verb 'hook'"
+    ],
+    "follow_up_question": "What's an opening statistic that's worked well for you?",
+    "grammar_explanation_en": "'Hook' the audience is a vivid, natural verb for capturing attention right away.",
+    "grammar_explanation_vi": "'Hook' the audience là động từ sinh động, tự nhiên chỉ việc thu hút sự chú ý ngay từ đầu."
+  },
+  {
+    "id": "I_OFF_PRESENT_002",
+    "level": "Intermediate",
+    "topic": "Office/Business English",
+    "sub_topic": "Presentations",
+    "difficulty_tier": "B2",
+    "ai_question": "How do you handle a tough question you weren't expecting during Q&A?",
+    "sample_pattern": "I acknowledge the question, buy myself a moment to think, and answer as honestly as I can.",
+    "keywords": [
+      "buy myself a moment",
+      "acknowledge"
+    ],
+    "common_mistakes": [
+      "Using 'take time' loosely instead of the idiom 'buy myself a moment'"
+    ],
+    "follow_up_question": "Have you ever had to say you didn't know the answer?",
+    "grammar_explanation_en": "'Buy yourself a moment' is an idiom meaning to gain a short pause to think before responding.",
+    "grammar_explanation_vi": "'Buy yourself a moment' là thành ngữ nghĩa là tranh thủ một khoảng dừng ngắn để suy nghĩ."
+  },
+  {
+    "id": "I_OFF_PRESENT_003",
+    "level": "Intermediate",
+    "topic": "Office/Business English",
+    "sub_topic": "Presentations",
+    "difficulty_tier": "B1",
+    "ai_question": "What's your process for simplifying a complex topic for a general audience?",
+    "sample_pattern": "I strip away the jargon and use relatable analogies to get the main idea across.",
+    "keywords": [
+      "strip away jargon",
+      "analogies"
+    ],
+    "common_mistakes": [
+      "Using 'remove hard words' loosely instead of the natural collocation 'strip away jargon'"
+    ],
+    "follow_up_question": "What's an analogy you've used successfully before?",
+    "grammar_explanation_en": "'Strip away jargon' is a natural collocation for removing overly technical language.",
+    "grammar_explanation_vi": "'Strip away jargon' là cụm tự nhiên khi loại bỏ ngôn ngữ chuyên môn quá khó hiểu."
+  },
+  {
+    "id": "I_OFF_PRESENT_004",
+    "level": "Intermediate",
+    "topic": "Office/Business English",
+    "sub_topic": "Presentations",
+    "difficulty_tier": "B2",
+    "ai_question": "How do you manage nerves right before stepping on stage?",
+    "sample_pattern": "I do a few deep breaths and run through my opening line one more time to settle myself.",
+    "keywords": [
+      "settle myself",
+      "run through"
+    ],
+    "common_mistakes": [
+      "Using 'calm down' loosely instead of the more natural phrase 'settle myself'"
+    ],
+    "follow_up_question": "Does that routine work every time?",
+    "grammar_explanation_en": "'Run through something' is a natural collocation meaning to quickly review or rehearse.",
+    "grammar_explanation_vi": "'Run through something' là cụm tự nhiên nghĩa là nhanh chóng ôn lại hoặc luyện tập."
+  },
+  {
+    "id": "I_OFF_PRESENT_005",
+    "level": "Intermediate",
+    "topic": "Office/Business English",
+    "sub_topic": "Presentations",
+    "difficulty_tier": "B1",
+    "ai_question": "How do you decide how much data to include on a slide?",
+    "sample_pattern": "I include only what supports the key takeaway and put the rest in an appendix if needed.",
+    "keywords": [
+      "key takeaway",
+      "appendix"
+    ],
+    "common_mistakes": [
+      "Using 'main point' loosely instead of the presentation term 'key takeaway'"
+    ],
+    "follow_up_question": "What do you usually put in your appendix slides?",
+    "grammar_explanation_en": "'Key takeaway' is standard presentation vocabulary for the main message the audience should remember.",
+    "grammar_explanation_vi": "'Key takeaway' là từ vựng thuyết trình chuẩn chỉ thông điệp chính người nghe cần nhớ."
+  },
+  {
+    "id": "I_OFF_PRESENT_006",
+    "level": "Intermediate",
+    "topic": "Office/Business English",
+    "sub_topic": "Presentations",
+    "difficulty_tier": "B2",
+    "ai_question": "How do you read the room during a presentation to adjust your delivery?",
+    "sample_pattern": "I watch for signs of confusion or disengagement and slow down or add examples when needed.",
+    "keywords": [
+      "read the room",
+      "disengagement"
+    ],
+    "common_mistakes": [
+      "Using 'see people' vaguely instead of the idiom 'read the room'"
+    ],
+    "follow_up_question": "What's a sign that tells you the audience is disengaged?",
+    "grammar_explanation_en": "'Read the room' is an idiom meaning to sense the mood or reaction of an audience.",
+    "grammar_explanation_vi": "'Read the room' là thành ngữ nghĩa là cảm nhận được tâm trạng, phản ứng của người nghe."
+  },
+  {
+    "id": "I_OFF_PRESENT_007",
+    "level": "Intermediate",
+    "topic": "Office/Business English",
+    "sub_topic": "Presentations",
+    "difficulty_tier": "B1",
+    "ai_question": "What's the biggest lesson you've learned about giving presentations?",
+    "sample_pattern": "I've learned that less is more — audiences remember a few clear points better than a lot of detail.",
+    "keywords": [
+      "less is more"
+    ],
+    "common_mistakes": [
+      "Using 'simple is good' loosely instead of the idiom 'less is more'"
+    ],
+    "follow_up_question": "How do you decide which points to cut when simplifying?",
+    "grammar_explanation_en": "'Less is more' is a common idiom meaning simplicity is often more effective than complexity.",
+    "grammar_explanation_vi": "'Less is more' là thành ngữ thông dụng nghĩa là sự đơn giản thường hiệu quả hơn sự phức tạp."
+  },
+  {
+    "id": "I_OFF_PRESENT_008",
+    "level": "Intermediate",
+    "topic": "Office/Business English",
+    "sub_topic": "Presentations",
+    "difficulty_tier": "B2",
+    "ai_question": "How do you close a presentation in a way that sticks with people?",
+    "sample_pattern": "I end with a clear call to action so the audience knows exactly what to do next.",
+    "keywords": [
+      "call to action",
+      "sticks with people"
+    ],
+    "common_mistakes": [
+      "Using 'tell them to do' loosely instead of the standard term 'call to action'"
+    ],
+    "follow_up_question": "What's an example of a call to action you've used?",
+    "grammar_explanation_en": "'Call to action' is standard presentation and marketing vocabulary for the desired next step.",
+    "grammar_explanation_vi": "'Call to action' là từ vựng thuyết trình, marketing chuẩn chỉ bước tiếp theo mong muốn."
+  },
+  {
+    "id": "I_DL_GREET_001",
+    "level": "Intermediate",
+    "topic": "Daily Conversation",
+    "sub_topic": "Greetings",
+    "difficulty_tier": "B1",
+    "ai_question": "It's been ages! What have you been up to lately?",
+    "sample_pattern": "It really has! I've been swamped with work, but things are finally settling down.",
+    "keywords": [
+      "swamped",
+      "settling down"
+    ],
+    "common_mistakes": [
+      "Using 'very busy' loosely instead of the more vivid idiom 'swamped'"
+    ],
+    "follow_up_question": "What's been keeping you so busy?",
+    "grammar_explanation_en": "'Swamped' is a vivid, natural way to say extremely busy, more expressive than 'very busy'.",
+    "grammar_explanation_vi": "'Swamped' là cách diễn đạt sinh động, tự nhiên hơn nghĩa là rất bận, thay vì chỉ nói 'very busy'."
+  },
+  {
+    "id": "I_DL_GREET_002",
+    "level": "Intermediate",
+    "topic": "Daily Conversation",
+    "sub_topic": "Greetings",
+    "difficulty_tier": "B2",
+    "ai_question": "How do you usually break the ice with someone you've just met?",
+    "sample_pattern": "I usually ask something light, like their thoughts on the event, to get the conversation flowing.",
+    "keywords": [
+      "break the ice",
+      "get the conversation flowing"
+    ],
+    "common_mistakes": [
+      "Using 'start talk' loosely instead of the idiom 'break the ice'"
+    ],
+    "follow_up_question": "What's a question that's worked really well for you?",
+    "grammar_explanation_en": "'Break the ice' is a common idiom meaning to start a conversation in a comfortable way.",
+    "grammar_explanation_vi": "'Break the ice' là thành ngữ thông dụng nghĩa là bắt đầu cuộc trò chuyện một cách thoải mái."
+  },
+  {
+    "id": "I_DL_GREET_003",
+    "level": "Intermediate",
+    "topic": "Daily Conversation",
+    "sub_topic": "Greetings",
+    "difficulty_tier": "B1",
+    "ai_question": "How do you keep in touch with old friends who live far away?",
+    "sample_pattern": "We mostly catch up through video calls every couple of months.",
+    "keywords": [
+      "keep in touch",
+      "catch up"
+    ],
+    "common_mistakes": [
+      "Using 'contact' loosely instead of the natural collocation 'keep in touch'"
+    ],
+    "follow_up_question": "Do you find video calls a good substitute for meeting in person?",
+    "grammar_explanation_en": "'Keep in touch' and 'catch up' are natural collocations for maintaining and renewing a relationship.",
+    "grammar_explanation_vi": "'Keep in touch' và 'catch up' là các cụm tự nhiên khi duy trì và cập nhật mối quan hệ."
+  },
+  {
+    "id": "I_DL_GREET_004",
+    "level": "Intermediate",
+    "topic": "Daily Conversation",
+    "sub_topic": "Greetings",
+    "difficulty_tier": "B2",
+    "ai_question": "What's the etiquette around introducing yourself at a networking event?",
+    "sample_pattern": "A firm handshake, eye contact, and a quick summary of what you do usually make a solid first impression.",
+    "keywords": [
+      "etiquette",
+      "first impression"
+    ],
+    "common_mistakes": [
+      "Using 'good manner' loosely instead of the correct noun 'etiquette'"
+    ],
+    "follow_up_question": "What do you think makes a self-introduction memorable?",
+    "grammar_explanation_en": "'Etiquette' is the precise noun for accepted social or professional behavior.",
+    "grammar_explanation_vi": "'Etiquette' là danh từ chính xác chỉ các quy tắc ứng xử được chấp nhận trong xã hội hoặc công việc."
+  },
+  {
+    "id": "I_DL_GREET_005",
+    "level": "Intermediate",
+    "topic": "Daily Conversation",
+    "sub_topic": "Greetings",
+    "difficulty_tier": "B1",
+    "ai_question": "How do you feel about small talk before getting into a real conversation?",
+    "sample_pattern": "I don't mind it — it eases you in before diving into anything more personal.",
+    "keywords": [
+      "eases you in",
+      "diving into"
+    ],
+    "common_mistakes": [
+      "Using 'make comfortable' loosely instead of the natural phrase 'eases you in'"
+    ],
+    "follow_up_question": "What's a small talk topic you find tends to work universally?",
+    "grammar_explanation_en": "'Ease someone in' is a natural phrase meaning to help someone transition comfortably.",
+    "grammar_explanation_vi": "'Ease someone in' là cách diễn đạt tự nhiên nghĩa là giúp ai đó chuyển tiếp một cách thoải mái."
+  },
+  {
+    "id": "I_DL_GREET_006",
+    "level": "Intermediate",
+    "topic": "Daily Conversation",
+    "sub_topic": "Greetings",
+    "difficulty_tier": "B2",
+    "ai_question": "How do you gracefully exit a conversation that's dragging on?",
+    "sample_pattern": "I usually mention I need to catch someone before they leave, then thank them for the chat.",
+    "keywords": [
+      "dragging on",
+      "gracefully"
+    ],
+    "common_mistakes": [
+      "Using 'too long' loosely instead of the idiom 'dragging on'"
+    ],
+    "follow_up_question": "Do you ever feel awkward doing that?",
+    "grammar_explanation_en": "'Drag on' is an idiom meaning something continues longer than necessary.",
+    "grammar_explanation_vi": "'Drag on' là thành ngữ nghĩa là điều gì đó kéo dài hơn cần thiết."
+  },
+  {
+    "id": "I_DL_GREET_007",
+    "level": "Intermediate",
+    "topic": "Daily Conversation",
+    "sub_topic": "Greetings",
+    "difficulty_tier": "B1",
+    "ai_question": "What's a compliment you feel comfortable giving to someone you just met?",
+    "sample_pattern": "I usually compliment something specific, like their presentation or an interesting point they made.",
+    "keywords": [
+      "compliment",
+      "specific"
+    ],
+    "common_mistakes": [
+      "Using 'say nice thing' loosely instead of the correct verb 'compliment'"
+    ],
+    "follow_up_question": "Do you think generic compliments feel less genuine?",
+    "grammar_explanation_en": "'Compliment' as a verb is the precise word for expressing praise or admiration.",
+    "grammar_explanation_vi": "'Compliment' dùng như động từ là từ chính xác diễn tả việc khen ngợi."
+  },
+  {
+    "id": "I_DL_GREET_008",
+    "level": "Intermediate",
+    "topic": "Daily Conversation",
+    "sub_topic": "Greetings",
+    "difficulty_tier": "B2",
+    "ai_question": "How do you handle awkward silences in a conversation?",
+    "sample_pattern": "I usually just ask a follow-up question to get things moving again.",
+    "keywords": [
+      "awkward silences",
+      "get things moving"
+    ],
+    "common_mistakes": [
+      "Using 'quiet time' loosely instead of the fixed phrase 'awkward silence'"
+    ],
+    "follow_up_question": "Do you think some silence in a conversation is actually okay?",
+    "grammar_explanation_en": "'Awkward silence' is a fixed collocation describing an uncomfortable pause in conversation.",
+    "grammar_explanation_vi": "'Awkward silence' là cụm cố định mô tả khoảng lặng khó xử trong cuộc trò chuyện."
+  },
+  {
+    "id": "I_DL_FOOD_001",
+    "level": "Intermediate",
+    "topic": "Daily Conversation",
+    "sub_topic": "Ordering Food",
+    "difficulty_tier": "B1",
+    "ai_question": "What would you recommend for someone who's never tried this cuisine before?",
+    "sample_pattern": "I'd suggest starting with something mild, like the grilled chicken, before working up to the spicier dishes.",
+    "keywords": [
+      "mild",
+      "working up to"
+    ],
+    "common_mistakes": [
+      "Using 'start easy' loosely instead of the natural phrase 'starting with something mild'"
+    ],
+    "follow_up_question": "What's the spiciest dish on the menu?",
+    "grammar_explanation_en": "'Work up to something' is a natural phrase meaning to gradually build toward something more intense.",
+    "grammar_explanation_vi": "'Work up to something' là cách diễn đạt tự nhiên nghĩa là dần dần tiến tới điều gì đó mạnh hơn."
+  },
+  {
+    "id": "I_DL_FOOD_002",
+    "level": "Intermediate",
+    "topic": "Daily Conversation",
+    "sub_topic": "Ordering Food",
+    "difficulty_tier": "B2",
+    "ai_question": "How do you decide between two equally tempting dishes on a menu?",
+    "sample_pattern": "Honestly, I usually ask the waiter which one is more popular and let that tip the scale.",
+    "keywords": [
+      "tempting",
+      "tip the scale"
+    ],
+    "common_mistakes": [
+      "Using 'help decide' loosely instead of the idiom 'tip the scale'"
+    ],
+    "follow_up_question": "Do you usually trust the waiter's recommendation?",
+    "grammar_explanation_en": "'Tip the scale' is an idiom meaning to be the deciding factor in a close decision.",
+    "grammar_explanation_vi": "'Tip the scale' là thành ngữ nghĩa là yếu tố quyết định trong một lựa chọn khó."
+  },
+  {
+    "id": "I_DL_FOOD_003",
+    "level": "Intermediate",
+    "topic": "Daily Conversation",
+    "sub_topic": "Ordering Food",
+    "difficulty_tier": "B1",
+    "ai_question": "What's your policy on sending food back if it's not cooked properly?",
+    "sample_pattern": "If it's clearly undercooked, I'll politely ask the server to have it redone.",
+    "keywords": [
+      "undercooked",
+      "have it redone"
+    ],
+    "common_mistakes": [
+      "Using 'not cook enough' loosely instead of the correct adjective 'undercooked'"
+    ],
+    "follow_up_question": "Have you ever had to send a dish back?",
+    "grammar_explanation_en": "'Undercooked' is the correct single-word adjective for food that hasn't been cooked enough.",
+    "grammar_explanation_vi": "'Undercooked' là tính từ đúng, gọn chỉ món ăn chưa được nấu chín đủ."
+  },
+  {
+    "id": "I_DL_FOOD_004",
+    "level": "Intermediate",
+    "topic": "Daily Conversation",
+    "sub_topic": "Ordering Food",
+    "difficulty_tier": "B2",
+    "ai_question": "How do you handle dining with someone who has strict dietary restrictions?",
+    "sample_pattern": "I check the menu ahead of time for options that accommodate their restrictions.",
+    "keywords": [
+      "dietary restrictions",
+      "accommodate"
+    ],
+    "common_mistakes": [
+      "Using 'food rules' loosely instead of the correct term 'dietary restrictions'"
+    ],
+    "follow_up_question": "What restaurants have you found are best at accommodating dietary needs?",
+    "grammar_explanation_en": "'Dietary restrictions' is the standard term for limits on what someone can eat.",
+    "grammar_explanation_vi": "'Dietary restrictions' là thuật ngữ chuẩn chỉ những giới hạn về thức ăn mà ai đó có thể dùng."
+  },
+  {
+    "id": "I_DL_FOOD_005",
+    "level": "Intermediate",
+    "topic": "Daily Conversation",
+    "sub_topic": "Ordering Food",
+    "difficulty_tier": "B1",
+    "ai_question": "What's the best way to split the bill among a large group?",
+    "sample_pattern": "We usually just divide it evenly, unless someone ordered something much more expensive.",
+    "keywords": [
+      "split the bill",
+      "divide evenly"
+    ],
+    "common_mistakes": [
+      "Using 'share money' loosely instead of the natural collocation 'split the bill'"
+    ],
+    "follow_up_question": "Do you prefer splitting evenly or paying for exactly what you ordered?",
+    "grammar_explanation_en": "'Split the bill' is the natural collocation for dividing a restaurant payment among a group.",
+    "grammar_explanation_vi": "'Split the bill' là cụm tự nhiên chỉ việc chia hóa đơn nhà hàng giữa mọi người."
+  },
+  {
+    "id": "I_DL_FOOD_006",
+    "level": "Intermediate",
+    "topic": "Daily Conversation",
+    "sub_topic": "Ordering Food",
+    "difficulty_tier": "B2",
+    "ai_question": "How do you feel about tipping culture at restaurants?",
+    "sample_pattern": "I think it makes sense in places where servers rely on tips, but it can feel excessive elsewhere.",
+    "keywords": [
+      "tipping culture",
+      "excessive"
+    ],
+    "common_mistakes": [
+      "Using 'too much' loosely instead of the more formal adjective 'excessive'"
+    ],
+    "follow_up_question": "How does tipping culture differ where you're from?",
+    "grammar_explanation_en": "'Excessive' is a more formal, precise adjective than 'too much' for describing something beyond reasonable.",
+    "grammar_explanation_vi": "'Excessive' là tính từ trang trọng, chính xác hơn 'too much' khi mô tả điều gì đó vượt mức hợp lý."
+  },
+  {
+    "id": "I_DL_FOOD_007",
+    "level": "Intermediate",
+    "topic": "Daily Conversation",
+    "sub_topic": "Ordering Food",
+    "difficulty_tier": "B1",
+    "ai_question": "What's a dish you order every single time you go to your favorite restaurant?",
+    "sample_pattern": "I always go for the seafood pasta — it's become a bit of a tradition for me.",
+    "keywords": [
+      "go for",
+      "a bit of a tradition"
+    ],
+    "common_mistakes": [
+      "Using 'choose' loosely instead of the natural collocation 'go for'"
+    ],
+    "follow_up_question": "How did that dish become a tradition for you?",
+    "grammar_explanation_en": "'Go for something' is a natural collocation meaning to choose it, often out of preference or habit.",
+    "grammar_explanation_vi": "'Go for something' là cụm tự nhiên nghĩa là chọn điều gì đó, thường vì sở thích hoặc thói quen."
+  },
+  {
+    "id": "I_DL_FOOD_008",
+    "level": "Intermediate",
+    "topic": "Daily Conversation",
+    "sub_topic": "Ordering Food",
+    "difficulty_tier": "B2",
+    "ai_question": "How do you navigate ordering food in a country where you don't speak the language?",
+    "sample_pattern": "I usually rely on pictures on the menu and point, or use a translation app if I'm stuck.",
+    "keywords": [
+      "rely on",
+      "point"
+    ],
+    "common_mistakes": [
+      "Using 'use' loosely instead of the natural collocation 'rely on'"
+    ],
+    "follow_up_question": "Has a translation app ever led to a funny misunderstanding?",
+    "grammar_explanation_en": "'Rely on something' is a natural collocation meaning to depend on it for help.",
+    "grammar_explanation_vi": "'Rely on something' là cụm tự nhiên nghĩa là dựa vào điều gì đó để được giúp đỡ."
+  },
+  {
+    "id": "I_DL_SHOP_001",
+    "level": "Intermediate",
+    "topic": "Daily Conversation",
+    "sub_topic": "Shopping",
+    "difficulty_tier": "B1",
+    "ai_question": "How do you avoid impulse buying when you're out shopping?",
+    "sample_pattern": "I stick to a list and give myself a day to think over anything that's not on it.",
+    "keywords": [
+      "impulse buying",
+      "stick to a list"
+    ],
+    "common_mistakes": [
+      "Using 'buy fast without think' loosely instead of the correct term 'impulse buying'"
+    ],
+    "follow_up_question": "Has that rule ever stopped you from buying something you regretted?",
+    "grammar_explanation_en": "'Impulse buying' is the standard term for making an unplanned purchase on a whim.",
+    "grammar_explanation_vi": "'Impulse buying' là thuật ngữ chuẩn chỉ việc mua sắm bốc đồng, không có kế hoạch."
+  },
+  {
+    "id": "I_DL_SHOP_002",
+    "level": "Intermediate",
+    "topic": "Daily Conversation",
+    "sub_topic": "Shopping",
+    "difficulty_tier": "B2",
+    "ai_question": "How do you negotiate a better price at a local market?",
+    "sample_pattern": "I stay friendly but firm, and I'm always willing to walk away if the price doesn't work.",
+    "keywords": [
+      "friendly but firm",
+      "walk away"
+    ],
+    "common_mistakes": [
+      "Using 'leave' loosely instead of the natural idiom 'walk away'"
+    ],
+    "follow_up_question": "Has walking away ever actually gotten you a better deal?",
+    "grammar_explanation_en": "'Walk away' is a natural idiom in negotiation meaning to be willing to end the deal.",
+    "grammar_explanation_vi": "'Walk away' là thành ngữ tự nhiên trong đàm phán nghĩa là sẵn sàng từ bỏ thương vụ."
+  },
+  {
+    "id": "I_DL_SHOP_003",
+    "level": "Intermediate",
+    "topic": "Daily Conversation",
+    "sub_topic": "Shopping",
+    "difficulty_tier": "B1",
+    "ai_question": "What's your take on shopping during big sales like Black Friday?",
+    "sample_pattern": "I enjoy it, but I make sure I'm only buying things I actually need, not just because they're discounted.",
+    "keywords": [
+      "discounted",
+      "actually need"
+    ],
+    "common_mistakes": [
+      "Using 'cheap price' loosely instead of the correct adjective 'discounted'"
+    ],
+    "follow_up_question": "Have you ever regretted a sale purchase?",
+    "grammar_explanation_en": "'Discounted' is the correct adjective for items sold at a reduced price.",
+    "grammar_explanation_vi": "'Discounted' là tính từ đúng chỉ mặt hàng được bán với giá giảm."
+  },
+  {
+    "id": "I_DL_SHOP_004",
+    "level": "Intermediate",
+    "topic": "Daily Conversation",
+    "sub_topic": "Shopping",
+    "difficulty_tier": "B2",
+    "ai_question": "How do you handle it when an online order arrives damaged?",
+    "sample_pattern": "I document the damage with photos right away and reach out to customer service for a replacement.",
+    "keywords": [
+      "document",
+      "customer service"
+    ],
+    "common_mistakes": [
+      "Using 'take picture' loosely instead of the professional verb 'document'"
+    ],
+    "follow_up_question": "How responsive has customer service usually been in these situations?",
+    "grammar_explanation_en": "'Document something' is professional vocabulary for recording evidence carefully.",
+    "grammar_explanation_vi": "'Document something' là từ vựng chuyên nghiệp chỉ việc ghi lại bằng chứng cẩn thận."
+  },
+  {
+    "id": "I_DL_SHOP_005",
+    "level": "Intermediate",
+    "topic": "Daily Conversation",
+    "sub_topic": "Shopping",
+    "difficulty_tier": "B1",
+    "ai_question": "What factors matter most to you when comparing similar products?",
+    "sample_pattern": "I usually weigh the price against the quality and check a few reviews before deciding.",
+    "keywords": [
+      "weigh",
+      "reviews"
+    ],
+    "common_mistakes": [
+      "Using 'compare' loosely instead of the more precise verb 'weigh'"
+    ],
+    "follow_up_question": "Do reviews ever change your mind at the last minute?",
+    "grammar_explanation_en": "'Weigh something against something else' is precise vocabulary for carefully comparing options.",
+    "grammar_explanation_vi": "'Weigh something against something else' là từ vựng chính xác khi cân nhắc kỹ giữa các lựa chọn."
+  },
+  {
+    "id": "I_DL_SHOP_006",
+    "level": "Intermediate",
+    "topic": "Daily Conversation",
+    "sub_topic": "Shopping",
+    "difficulty_tier": "B2",
+    "ai_question": "How do you deal with pushy sales staff?",
+    "sample_pattern": "I politely let them know I'm just browsing and will ask if I need help.",
+    "keywords": [
+      "pushy",
+      "just browsing"
+    ],
+    "common_mistakes": [
+      "Using 'too active' loosely instead of the correct adjective 'pushy'"
+    ],
+    "follow_up_question": "Does being upfront usually make them back off?",
+    "grammar_explanation_en": "'Pushy' is the correct adjective for someone who is overly insistent or aggressive.",
+    "grammar_explanation_vi": "'Pushy' là tính từ đúng chỉ người quá thúc ép, hối thúc."
+  },
+  {
+    "id": "I_DL_SHOP_007",
+    "level": "Intermediate",
+    "topic": "Daily Conversation",
+    "sub_topic": "Shopping",
+    "difficulty_tier": "B1",
+    "ai_question": "How do you know when it's the right time to splurge on something expensive?",
+    "sample_pattern": "I usually splurge when it's something I'll use often and that genuinely improves my daily life.",
+    "keywords": [
+      "splurge",
+      "daily life"
+    ],
+    "common_mistakes": [
+      "Using 'spend a lot' loosely instead of the vivid verb 'splurge'"
+    ],
+    "follow_up_question": "What's the last thing you splurged on?",
+    "grammar_explanation_en": "'Splurge' is a vivid verb meaning to spend generously on something, often as a treat.",
+    "grammar_explanation_vi": "'Splurge' là động từ sinh động nghĩa là chi tiêu thoải mái cho điều gì đó, thường như một phần thưởng."
+  },
+  {
+    "id": "I_DL_SHOP_008",
+    "level": "Intermediate",
+    "topic": "Daily Conversation",
+    "sub_topic": "Shopping",
+    "difficulty_tier": "B2",
+    "ai_question": "How do return policies influence where you choose to shop?",
+    "sample_pattern": "A flexible return policy definitely makes me more confident about trying something new.",
+    "keywords": [
+      "flexible",
+      "confident"
+    ],
+    "common_mistakes": [
+      "Using 'easy return' loosely instead of the correct adjective 'flexible'"
+    ],
+    "follow_up_question": "Have you ever avoided a store because of a strict return policy?",
+    "grammar_explanation_en": "'Flexible' is the precise adjective describing a policy that can accommodate different situations.",
+    "grammar_explanation_vi": "'Flexible' là tính từ chính xác mô tả chính sách có thể linh hoạt tùy tình huống."
+  },
+  {
+    "id": "I_DL_DIRECTION_001",
+    "level": "Intermediate",
+    "topic": "Daily Conversation",
+    "sub_topic": "Asking for Directions",
+    "difficulty_tier": "B1",
+    "ai_question": "Excuse me, I'm a bit lost. Could you point me in the right direction for the nearest subway station?",
+    "sample_pattern": "Sure, just head straight down this block, take a left at the intersection, and you'll spot the entrance right next to the convenience store.",
+    "keywords": [
+      "head straight down",
+      "take a left",
+      "spot the entrance"
+    ],
+    "common_mistakes": [
+      "Using 'go direct' loosely instead of the natural phrase 'head straight down'"
+    ],
+    "follow_up_question": "Thanks! How many minutes does that walk usually take?",
+    "grammar_explanation_en": "Use navigational idioms such as 'head straight down', 'take a left', and 'spot the entrance' for natural native phrasing.",
+    "grammar_explanation_vi": "Sử dụng các cụm từ chỉ đường tự nhiên của người bản xứ như 'head straight down', 'take a left', và 'spot the entrance'."
+  },
+  {
+    "id": "I_DL_DIRECTION_002",
+    "level": "Intermediate",
+    "topic": "Daily Conversation",
+    "sub_topic": "Asking for Directions",
+    "difficulty_tier": "B2",
+    "ai_question": "What's the best way to explain directions to someone who doesn't know any local landmarks?",
+    "sample_pattern": "I try to use simple counts, like 'two blocks down' or 'third building on the right', instead of naming places.",
+    "keywords": [
+      "blocks down",
+      "counts"
+    ],
+    "common_mistakes": [
+      "Using 'far away number' loosely instead of the natural phrase 'blocks down'"
+    ],
+    "follow_up_question": "Do you find that method more reliable than using landmarks?",
+    "grammar_explanation_en": "Counting blocks or turns is a natural way to give directions when landmarks aren't useful.",
+    "grammar_explanation_vi": "Đếm số dãy nhà hoặc số lần rẽ là cách chỉ đường tự nhiên khi mốc địa danh không hữu ích."
+  },
+  {
+    "id": "I_DL_DIRECTION_003",
+    "level": "Intermediate",
+    "topic": "Daily Conversation",
+    "sub_topic": "Asking for Directions",
+    "difficulty_tier": "B1",
+    "ai_question": "How do you double-check you're heading in the right direction in an unfamiliar city?",
+    "sample_pattern": "I usually glance at my phone's map every few minutes just to confirm I haven't gone off course.",
+    "keywords": [
+      "gone off course",
+      "glance"
+    ],
+    "common_mistakes": [
+      "Using 'walk wrong way' loosely instead of the idiom 'go off course'"
+    ],
+    "follow_up_question": "Has your phone's GPS ever led you completely astray?",
+    "grammar_explanation_en": "'Go off course' is a natural idiom meaning to deviate from the intended route.",
+    "grammar_explanation_vi": "'Go off course' là thành ngữ tự nhiên nghĩa là đi lệch khỏi lộ trình dự định."
+  },
+  {
+    "id": "I_DL_DIRECTION_004",
+    "level": "Intermediate",
+    "topic": "Daily Conversation",
+    "sub_topic": "Asking for Directions",
+    "difficulty_tier": "B2",
+    "ai_question": "How do you react when the directions someone gave you turn out to be wrong?",
+    "sample_pattern": "I stay calm, pull up a map app, and reroute instead of getting frustrated.",
+    "keywords": [
+      "pull up",
+      "reroute"
+    ],
+    "common_mistakes": [
+      "Using 'open' loosely instead of the natural collocation 'pull up (a map)'"
+    ],
+    "follow_up_question": "Has this happened to you recently?",
+    "grammar_explanation_en": "'Pull up something' is a natural collocation meaning to open or bring up information, like a map.",
+    "grammar_explanation_vi": "'Pull up something' là cụm tự nhiên nghĩa là mở ra hoặc hiển thị thông tin, như bản đồ."
+  },
+  {
+    "id": "I_DL_DIRECTION_005",
+    "level": "Intermediate",
+    "topic": "Daily Conversation",
+    "sub_topic": "Asking for Directions",
+    "difficulty_tier": "B1",
+    "ai_question": "What landmarks do you usually mention when giving directions to your home?",
+    "sample_pattern": "I usually mention the big supermarket on the corner since it's hard to miss.",
+    "keywords": [
+      "hard to miss"
+    ],
+    "common_mistakes": [
+      "Using 'easy to see' loosely instead of the natural idiom 'hard to miss'"
+    ],
+    "follow_up_question": "Is there a landmark near your place that's even more well-known?",
+    "grammar_explanation_en": "'Hard to miss' is a natural idiom for something very noticeable or obvious.",
+    "grammar_explanation_vi": "'Hard to miss' là thành ngữ tự nhiên chỉ điều gì đó rất dễ nhận ra, nổi bật."
+  },
+  {
+    "id": "I_DL_DIRECTION_006",
+    "level": "Intermediate",
+    "topic": "Daily Conversation",
+    "sub_topic": "Asking for Directions",
+    "difficulty_tier": "B2",
+    "ai_question": "How do you handle giving directions when the route has a lot of one-way streets?",
+    "sample_pattern": "I map out the route in my head first so I don't accidentally send someone the wrong way.",
+    "keywords": [
+      "map out",
+      "the wrong way"
+    ],
+    "common_mistakes": [
+      "Using 'plan' loosely instead of the vivid phrase 'map out'"
+    ],
+    "follow_up_question": "Have one-way streets ever confused you while driving?",
+    "grammar_explanation_en": "'Map out a route' is a vivid, natural phrase for planning a path in detail.",
+    "grammar_explanation_vi": "'Map out a route' là cách diễn đạt sinh động, tự nhiên khi lên kế hoạch lộ trình chi tiết."
+  },
+  {
+    "id": "I_DL_DIRECTION_007",
+    "level": "Intermediate",
+    "topic": "Daily Conversation",
+    "sub_topic": "Asking for Directions",
+    "difficulty_tier": "B1",
+    "ai_question": "What's the quickest way to explain a shortcut to someone?",
+    "sample_pattern": "I usually mention one clear turn and a recognizable landmark instead of overcomplicating it.",
+    "keywords": [
+      "shortcut",
+      "recognizable landmark"
+    ],
+    "common_mistakes": [
+      "Using 'fast way' loosely instead of the correct noun 'shortcut'"
+    ],
+    "follow_up_question": "Do you use shortcuts often, even if they're a bit confusing?",
+    "grammar_explanation_en": "'Shortcut' is the correct noun for a quicker route than the usual one.",
+    "grammar_explanation_vi": "'Shortcut' là danh từ đúng chỉ đường tắt nhanh hơn lộ trình thông thường."
+  },
+  {
+    "id": "I_DL_DIRECTION_008",
+    "level": "Intermediate",
+    "topic": "Daily Conversation",
+    "sub_topic": "Asking for Directions",
+    "difficulty_tier": "B2",
+    "ai_question": "How do you stay patient when explaining directions to someone multiple times?",
+    "sample_pattern": "I try to rephrase it differently each time in case my first explanation didn't click.",
+    "keywords": [
+      "rephrase",
+      "didn't click"
+    ],
+    "common_mistakes": [
+      "Using 'say again same' loosely instead of the natural verb 'rephrase'"
+    ],
+    "follow_up_question": "What usually helps something finally click for someone?",
+    "grammar_explanation_en": "'Something clicks' is an idiom meaning someone suddenly understands.",
+    "grammar_explanation_vi": "'Something clicks' là thành ngữ nghĩa là ai đó bỗng nhiên hiểu ra vấn đề."
+  },
+  {
+    "id": "I_DL_TRAVEL_001",
+    "level": "Intermediate",
+    "topic": "Daily Conversation",
+    "sub_topic": "Travel",
+    "difficulty_tier": "B1",
+    "ai_question": "What's the most important thing you consider when planning a trip abroad?",
+    "sample_pattern": "I always look into visa requirements first, since that can make or break the whole plan.",
+    "keywords": [
+      "visa requirements",
+      "make or break"
+    ],
+    "common_mistakes": [
+      "Using 'decide everything' loosely instead of the idiom 'make or break'"
+    ],
+    "follow_up_question": "Has a visa issue ever derailed a trip for you?",
+    "grammar_explanation_en": "'Make or break something' is an idiom meaning to be the deciding factor in its success or failure.",
+    "grammar_explanation_vi": "'Make or break something' là thành ngữ nghĩa là yếu tố quyết định thành công hay thất bại."
+  },
+  {
+    "id": "I_DL_TRAVEL_002",
+    "level": "Intermediate",
+    "topic": "Daily Conversation",
+    "sub_topic": "Travel",
+    "difficulty_tier": "B2",
+    "ai_question": "How do you deal with jet lag after a long-haul flight?",
+    "sample_pattern": "I try to adjust to the local time zone immediately, even if it means staying up longer than usual.",
+    "keywords": [
+      "jet lag",
+      "long-haul flight"
+    ],
+    "common_mistakes": [
+      "Using 'tired from flight' loosely instead of the correct term 'jet lag'"
+    ],
+    "follow_up_question": "How long does it usually take you to fully recover?",
+    "grammar_explanation_en": "'Jet lag' is the standard term for tiredness caused by crossing multiple time zones.",
+    "grammar_explanation_vi": "'Jet lag' là thuật ngữ chuẩn chỉ tình trạng mệt mỏi do di chuyển qua nhiều múi giờ."
+  },
+  {
+    "id": "I_DL_TRAVEL_003",
+    "level": "Intermediate",
+    "topic": "Daily Conversation",
+    "sub_topic": "Travel",
+    "difficulty_tier": "B1",
+    "ai_question": "What's your approach to packing light for a trip?",
+    "sample_pattern": "I stick to versatile clothing that can be mixed and matched to cut down on luggage.",
+    "keywords": [
+      "versatile",
+      "mixed and matched"
+    ],
+    "common_mistakes": [
+      "Using 'clothes that go together' loosely instead of the idiom 'mixed and matched'"
+    ],
+    "follow_up_question": "What's the one item you never leave home without?",
+    "grammar_explanation_en": "'Mix and match' is a common idiom for combining items so they work well together in different ways.",
+    "grammar_explanation_vi": "'Mix and match' là thành ngữ thông dụng chỉ việc kết hợp các món đồ để phối được nhiều cách."
+  },
+  {
+    "id": "I_DL_TRAVEL_004",
+    "level": "Intermediate",
+    "topic": "Daily Conversation",
+    "sub_topic": "Travel",
+    "difficulty_tier": "B2",
+    "ai_question": "How do you decide between a guided tour and exploring on your own?",
+    "sample_pattern": "I prefer going off the beaten path, even if it means occasionally getting a little lost.",
+    "keywords": [
+      "off the beaten path"
+    ],
+    "common_mistakes": [
+      "Using 'not popular place' loosely instead of the idiom 'off the beaten path'"
+    ],
+    "follow_up_question": "What's the best off-the-beaten-path place you've discovered?",
+    "grammar_explanation_en": "'Off the beaten path' is an idiom meaning somewhere unusual and not often visited by tourists.",
+    "grammar_explanation_vi": "'Off the beaten path' là thành ngữ nghĩa là nơi ít người biết đến, không phổ biến với khách du lịch."
+  },
+  {
+    "id": "I_DL_TRAVEL_005",
+    "level": "Intermediate",
+    "topic": "Daily Conversation",
+    "sub_topic": "Travel",
+    "difficulty_tier": "B1",
+    "ai_question": "What do you always double-check before heading to the airport?",
+    "sample_pattern": "I always double-check my boarding pass and make sure my documents are easily accessible.",
+    "keywords": [
+      "double-check",
+      "easily accessible"
+    ],
+    "common_mistakes": [
+      "Using 'check again' loosely instead of the natural verb 'double-check'"
+    ],
+    "follow_up_question": "Have you ever forgotten something important at the last minute?",
+    "grammar_explanation_en": "'Double-check' is the natural verb for verifying something carefully a second time.",
+    "grammar_explanation_vi": "'Double-check' là động từ tự nhiên khi kiểm tra lại điều gì đó thật kỹ."
+  },
+  {
+    "id": "I_DL_TRAVEL_006",
+    "level": "Intermediate",
+    "topic": "Daily Conversation",
+    "sub_topic": "Travel",
+    "difficulty_tier": "B2",
+    "ai_question": "How do you handle unexpected flight delays or cancellations?",
+    "sample_pattern": "I stay calm, check for alternative flights right away, and keep my travel insurance details handy.",
+    "keywords": [
+      "alternative flights",
+      "travel insurance"
+    ],
+    "common_mistakes": [
+      "Using 'other flight' loosely instead of the correct phrase 'alternative flights'"
+    ],
+    "follow_up_question": "Has travel insurance ever come in handy for you?",
+    "grammar_explanation_en": "'Alternative flights' is the correct phrase for other flight options when a plan changes.",
+    "grammar_explanation_vi": "'Alternative flights' là cụm đúng chỉ các chuyến bay khác khi kế hoạch thay đổi."
+  },
+  {
+    "id": "I_DL_TRAVEL_007",
+    "level": "Intermediate",
+    "topic": "Daily Conversation",
+    "sub_topic": "Travel",
+    "difficulty_tier": "B1",
+    "ai_question": "What's a travel habit you've picked up that saves you money?",
+    "sample_pattern": "I've gotten into the habit of booking flights well in advance to snag lower fares.",
+    "keywords": [
+      "snag",
+      "in advance"
+    ],
+    "common_mistakes": [
+      "Using 'get' loosely instead of the vivid verb 'snag'"
+    ],
+    "follow_up_question": "How far in advance do you usually book?",
+    "grammar_explanation_en": "'Snag a deal' is a vivid, informal verb meaning to successfully get something desirable.",
+    "grammar_explanation_vi": "'Snag a deal' là động từ sinh động, thân mật nghĩa là có được điều gì đó mong muốn."
+  },
+  {
+    "id": "I_DL_TRAVEL_008",
+    "level": "Intermediate",
+    "topic": "Daily Conversation",
+    "sub_topic": "Travel",
+    "difficulty_tier": "B2",
+    "ai_question": "How do you immerse yourself in the local culture when you travel?",
+    "sample_pattern": "I try to eat where the locals eat and pick up a few phrases in the local language.",
+    "keywords": [
+      "immerse yourself",
+      "pick up phrases"
+    ],
+    "common_mistakes": [
+      "Using 'know culture' loosely instead of the natural phrase 'immerse yourself'"
+    ],
+    "follow_up_question": "What's a local phrase that's come in handy for you before?",
+    "grammar_explanation_en": "'Immerse yourself in something' is a natural phrase meaning to fully engage with an experience.",
+    "grammar_explanation_vi": "'Immerse yourself in something' là cách diễn đạt tự nhiên nghĩa là hòa mình hoàn toàn vào một trải nghiệm."
+  },
+  {
+    "id": "I_DL_HOBBY_001",
+    "level": "Intermediate",
+    "topic": "Daily Conversation",
+    "sub_topic": "Talking About Hobbies",
+    "difficulty_tier": "B1",
+    "ai_question": "How did you first get into your favorite hobby?",
+    "sample_pattern": "I got into photography almost by accident, after borrowing my brother's camera on a trip.",
+    "keywords": [
+      "got into",
+      "by accident"
+    ],
+    "common_mistakes": [
+      "Using 'start like' loosely instead of the natural phrase 'get into'"
+    ],
+    "follow_up_question": "Has your brother seen how far you've taken it since then?",
+    "grammar_explanation_en": "'Get into something' is a natural phrase meaning to develop an interest in an activity.",
+    "grammar_explanation_vi": "'Get into something' là cách diễn đạt tự nhiên nghĩa là bắt đầu thích thú với một hoạt động."
+  },
+  {
+    "id": "I_DL_HOBBY_002",
+    "level": "Intermediate",
+    "topic": "Daily Conversation",
+    "sub_topic": "Talking About Hobbies",
+    "difficulty_tier": "B2",
+    "ai_question": "How do you make time for your hobbies with a busy schedule?",
+    "sample_pattern": "I carve out at least a couple of hours on weekends, no matter how packed the week has been.",
+    "keywords": [
+      "carve out",
+      "packed"
+    ],
+    "common_mistakes": [
+      "Using 'find time' loosely instead of the more vivid phrase 'carve out time'"
+    ],
+    "follow_up_question": "What do you sacrifice to make that time happen?",
+    "grammar_explanation_en": "'Carve out time' is a vivid phrase meaning to deliberately set aside time despite a busy schedule.",
+    "grammar_explanation_vi": "'Carve out time' là cách diễn đạt sinh động nghĩa là chủ động dành thời gian dù lịch bận rộn."
+  },
+  {
+    "id": "I_DL_HOBBY_003",
+    "level": "Intermediate",
+    "topic": "Daily Conversation",
+    "sub_topic": "Talking About Hobbies",
+    "difficulty_tier": "B1",
+    "ai_question": "What's a hobby you've always wanted to try but haven't gotten around to yet?",
+    "sample_pattern": "I've always wanted to try rock climbing, but I just haven't gotten around to it.",
+    "keywords": [
+      "gotten around to"
+    ],
+    "common_mistakes": [
+      "Using 'not do yet' loosely instead of the idiom 'get around to'"
+    ],
+    "follow_up_question": "What's stopping you from trying it?",
+    "grammar_explanation_en": "'Get around to something' is an idiom meaning to finally find time to do something after delaying.",
+    "grammar_explanation_vi": "'Get around to something' là thành ngữ nghĩa là cuối cùng cũng có thời gian làm điều gì đó sau khi trì hoãn."
+  },
+  {
+    "id": "I_DL_HOBBY_004",
+    "level": "Intermediate",
+    "topic": "Daily Conversation",
+    "sub_topic": "Talking About Hobbies",
+    "difficulty_tier": "B2",
+    "ai_question": "How has your hobby helped you outside of just having fun?",
+    "sample_pattern": "It's actually taught me patience and helped me unwind after stressful days at work.",
+    "keywords": [
+      "unwind",
+      "patience"
+    ],
+    "common_mistakes": [
+      "Using 'relax' loosely instead of the natural verb 'unwind'"
+    ],
+    "follow_up_question": "What else has it taught you that surprised you?",
+    "grammar_explanation_en": "'Unwind' is a natural verb specifically meaning to relax after stress or tension.",
+    "grammar_explanation_vi": "'Unwind' là động từ tự nhiên chỉ việc thư giãn sau căng thẳng."
+  },
+  {
+    "id": "I_DL_HOBBY_005",
+    "level": "Intermediate",
+    "topic": "Daily Conversation",
+    "sub_topic": "Talking About Hobbies",
+    "difficulty_tier": "B1",
+    "ai_question": "How do you stay motivated when you hit a plateau in a hobby?",
+    "sample_pattern": "I try mixing things up, like learning a new technique, to reignite my interest.",
+    "keywords": [
+      "hit a plateau",
+      "reignite"
+    ],
+    "common_mistakes": [
+      "Using 'stop improve' loosely instead of the idiom 'hit a plateau'"
+    ],
+    "follow_up_question": "What technique helped you get past a plateau before?",
+    "grammar_explanation_en": "'Hit a plateau' is an idiom meaning progress has stalled after a period of improvement.",
+    "grammar_explanation_vi": "'Hit a plateau' là thành ngữ nghĩa là tiến độ chững lại sau một thời gian cải thiện."
+  },
+  {
+    "id": "I_DL_HOBBY_006",
+    "level": "Intermediate",
+    "topic": "Daily Conversation",
+    "sub_topic": "Talking About Hobbies",
+    "difficulty_tier": "B2",
+    "ai_question": "How do you decide when a hobby has turned into something more serious?",
+    "sample_pattern": "When I start investing real money and time into gear, I know it's become more than just a casual interest.",
+    "keywords": [
+      "invest",
+      "casual interest"
+    ],
+    "common_mistakes": [
+      "Using 'spend money' loosely instead of the more precise verb 'invest'"
+    ],
+    "follow_up_question": "What's the most you've invested in a hobby so far?",
+    "grammar_explanation_en": "'Invest time/money in something' is precise vocabulary for committing significant resources to it.",
+    "grammar_explanation_vi": "'Invest time/money in something' là từ vựng chính xác khi dành nguồn lực đáng kể cho điều gì đó."
+  },
+  {
+    "id": "I_DL_HOBBY_007",
+    "level": "Intermediate",
+    "topic": "Daily Conversation",
+    "sub_topic": "Talking About Hobbies",
+    "difficulty_tier": "B1",
+    "ai_question": "What's the social side of your hobby like?",
+    "sample_pattern": "I've met some great friends through a local club that shares the same interest.",
+    "keywords": [
+      "local club",
+      "shares the same interest"
+    ],
+    "common_mistakes": [
+      "Using 'group of people' loosely instead of the correct noun 'club'"
+    ],
+    "follow_up_question": "How often does your club meet up?",
+    "grammar_explanation_en": "'Club' is the correct noun for an organized group sharing a common interest.",
+    "grammar_explanation_vi": "'Club' là danh từ đúng chỉ một nhóm có tổ chức cùng chung sở thích."
+  },
+  {
+    "id": "I_DL_HOBBY_008",
+    "level": "Intermediate",
+    "topic": "Daily Conversation",
+    "sub_topic": "Talking About Hobbies",
+    "difficulty_tier": "B2",
+    "ai_question": "How do you avoid burning out on a hobby you're passionate about?",
+    "sample_pattern": "I make sure to take breaks so it doesn't start to feel like an obligation instead of fun.",
+    "keywords": [
+      "burning out",
+      "obligation"
+    ],
+    "common_mistakes": [
+      "Using 'too tired of' loosely instead of the correct phrase 'burn out'"
+    ],
+    "follow_up_question": "Has your hobby ever started to feel like an obligation?",
+    "grammar_explanation_en": "'Burn out (on something)' is the correct phrase for losing enthusiasm due to overexertion.",
+    "grammar_explanation_vi": "'Burn out (on something)' là cụm đúng chỉ việc mất hứng thú do làm quá sức."
+  }
+]

@@ -1,0 +1,1858 @@
+[
+  {
+    "id": "B_OFF_LEAVE_001",
+    "level": "Beginner",
+    "topic": "Office/Business English",
+    "sub_topic": "Asking for Leave",
+    "difficulty_tier": "A1",
+    "ai_question": "Why do you need to take some days off next week?",
+    "sample_pattern": "I need to take some days off because I have a medical checkup.",
+    "keywords": [
+      "take days off",
+      "because",
+      "medical checkup"
+    ],
+    "common_mistakes": [
+      "Missing 'because' before the reason clause"
+    ],
+    "follow_up_question": "What day do you want your leave to start?",
+    "grammar_explanation_en": "Use 'take days off' for vacation/leave. 'Because' must be followed by a full clause (subject + verb).",
+    "grammar_explanation_vi": "Dùng 'take days off' khi xin nghỉ phép. Sau 'because' phải là một mệnh đề đầy đủ (chủ ngữ + động từ)."
+  },
+  {
+    "id": "B_OFF_LEAVE_002",
+    "level": "Beginner",
+    "topic": "Office/Business English",
+    "sub_topic": "Asking for Leave",
+    "difficulty_tier": "A1",
+    "ai_question": "How many days do you want to take off?",
+    "sample_pattern": "I want to take two days off, from Monday to Tuesday.",
+    "keywords": [
+      "two days",
+      "from...to"
+    ],
+    "common_mistakes": [
+      "Missing 's' on 'day' when the number is more than one"
+    ],
+    "follow_up_question": "Why do you need these two days off?",
+    "grammar_explanation_en": "Add 's' to 'day' when talking about more than one day (plural noun).",
+    "grammar_explanation_vi": "Thêm 's' vào 'day' khi nói về nhiều hơn một ngày (danh từ số nhiều)."
+  },
+  {
+    "id": "B_OFF_LEAVE_003",
+    "level": "Beginner",
+    "topic": "Office/Business English",
+    "sub_topic": "Asking for Leave",
+    "difficulty_tier": "A1",
+    "ai_question": "When do you need your leave to start?",
+    "sample_pattern": "My leave needs to start this Friday.",
+    "keywords": [
+      "start",
+      "this Friday"
+    ],
+    "common_mistakes": [
+      "Using 'in Friday' instead of 'on Friday'"
+    ],
+    "follow_up_question": "And when will you be back at work?",
+    "grammar_explanation_en": "Use the preposition 'on' before a day of the week (on Friday), not 'in' or 'at'.",
+    "grammar_explanation_vi": "Dùng giới từ 'on' trước ngày trong tuần (on Friday), không dùng 'in' hoặc 'at'."
+  },
+  {
+    "id": "B_OFF_LEAVE_004",
+    "level": "Beginner",
+    "topic": "Office/Business English",
+    "sub_topic": "Asking for Leave",
+    "difficulty_tier": "A1",
+    "ai_question": "When will you come back to work?",
+    "sample_pattern": "I will come back to work next Monday.",
+    "keywords": [
+      "come back",
+      "next Monday"
+    ],
+    "common_mistakes": [
+      "Wrong tense: using present simple instead of future 'will'"
+    ],
+    "follow_up_question": "Will you check your email while you are away?",
+    "grammar_explanation_en": "Use 'will' + base verb to talk about a future plan.",
+    "grammar_explanation_vi": "Dùng 'will' + động từ nguyên mẫu để nói về kế hoạch trong tương lai."
+  },
+  {
+    "id": "B_OFF_LEAVE_005",
+    "level": "Beginner",
+    "topic": "Office/Business English",
+    "sub_topic": "Asking for Leave",
+    "difficulty_tier": "A2",
+    "ai_question": "Who will do your work while you are away?",
+    "sample_pattern": "My colleague, Ms. Lan, will do my work while I am away.",
+    "keywords": [
+      "colleague",
+      "will do",
+      "while"
+    ],
+    "common_mistakes": [
+      "Forgetting 'while' + subject + verb structure"
+    ],
+    "follow_up_question": "Has Ms. Lan agreed to help you?",
+    "grammar_explanation_en": "'While' introduces a clause with its own subject and verb to show two actions happening at the same time.",
+    "grammar_explanation_vi": "'While' mở đầu một mệnh đề có chủ ngữ và động từ riêng để diễn tả hai hành động xảy ra cùng lúc."
+  },
+  {
+    "id": "B_OFF_LEAVE_006",
+    "level": "Beginner",
+    "topic": "Office/Business English",
+    "sub_topic": "Asking for Leave",
+    "difficulty_tier": "A2",
+    "ai_question": "Have you told your manager about your leave yet?",
+    "sample_pattern": "Yes, I have already told my manager about my leave.",
+    "keywords": [
+      "have told",
+      "already"
+    ],
+    "common_mistakes": [
+      "Using past simple 'told' alone instead of present perfect 'have told'"
+    ],
+    "follow_up_question": "What did your manager say?",
+    "grammar_explanation_en": "Use present perfect (have/has + past participle) for an action completed before now.",
+    "grammar_explanation_vi": "Dùng thì hiện tại hoàn thành (have/has + động từ phân từ 2) cho hành động đã hoàn thành tính đến hiện tại."
+  },
+  {
+    "id": "B_OFF_LEAVE_007",
+    "level": "Beginner",
+    "topic": "Office/Business English",
+    "sub_topic": "Asking for Leave",
+    "difficulty_tier": "A1",
+    "ai_question": "Is this a sick leave or a personal leave?",
+    "sample_pattern": "This is a sick leave because I am not feeling well.",
+    "keywords": [
+      "sick leave",
+      "because"
+    ],
+    "common_mistakes": [
+      "Missing 'to be' verb before an -ing verb or adjective"
+    ],
+    "follow_up_question": "Do you need to see a doctor?",
+    "grammar_explanation_en": "Do not forget the verb 'to be' (am/is/are) before an -ing verb or adjective.",
+    "grammar_explanation_vi": "Đừng quên động từ 'to be' (am/is/are) trước động từ đuôi -ing hoặc tính từ."
+  },
+  {
+    "id": "B_OFF_LEAVE_008",
+    "level": "Beginner",
+    "topic": "Office/Business English",
+    "sub_topic": "Asking for Leave",
+    "difficulty_tier": "A1",
+    "ai_question": "Do you need a doctor's note for this leave?",
+    "sample_pattern": "Yes, I need a doctor's note for this leave.",
+    "keywords": [
+      "doctor's note",
+      "need"
+    ],
+    "common_mistakes": [
+      "Missing possessive 's on 'doctor'"
+    ],
+    "follow_up_question": "When can you get the doctor's note?",
+    "grammar_explanation_en": "Use 's after a noun to show possession (doctor's note = the note that belongs to the doctor).",
+    "grammar_explanation_vi": "Dùng 's sau danh từ để chỉ sự sở hữu (doctor's note = giấy của bác sĩ)."
+  },
+  {
+    "id": "B_OFF_LEAVE_009",
+    "level": "Beginner",
+    "topic": "Office/Business English",
+    "sub_topic": "Asking for Leave",
+    "difficulty_tier": "A2",
+    "ai_question": "Can you finish your report before you leave?",
+    "sample_pattern": "Yes, I can finish my report before I leave.",
+    "keywords": [
+      "can finish",
+      "before"
+    ],
+    "common_mistakes": [
+      "Wrong word order after 'before'"
+    ],
+    "follow_up_question": "What time will your report be ready?",
+    "grammar_explanation_en": "'Before' is followed by a subject and a verb (before + subject + verb) to show the order of two actions.",
+    "grammar_explanation_vi": "'Before' theo sau bởi chủ ngữ và động từ (before + chủ ngữ + động từ) để chỉ thứ tự của hai hành động."
+  },
+  {
+    "id": "B_OFF_CLIENT_001",
+    "level": "Beginner",
+    "topic": "Office/Business English",
+    "sub_topic": "Meeting Clients",
+    "difficulty_tier": "A1",
+    "ai_question": "What time is your meeting with the client today?",
+    "sample_pattern": "My meeting with the client is at three o'clock today.",
+    "keywords": [
+      "meeting",
+      "at three o'clock"
+    ],
+    "common_mistakes": [
+      "Using 'in three o'clock' instead of 'at three o'clock'"
+    ],
+    "follow_up_question": "Where will the meeting take place?",
+    "grammar_explanation_en": "Use 'at' before a clock time (at three o'clock).",
+    "grammar_explanation_vi": "Dùng 'at' trước giờ cụ thể (at three o'clock)."
+  },
+  {
+    "id": "B_OFF_CLIENT_002",
+    "level": "Beginner",
+    "topic": "Office/Business English",
+    "sub_topic": "Meeting Clients",
+    "difficulty_tier": "A1",
+    "ai_question": "Where are you meeting the client?",
+    "sample_pattern": "I am meeting the client at our office on the fifth floor.",
+    "keywords": [
+      "at our office",
+      "fifth floor"
+    ],
+    "common_mistakes": [
+      "Missing 'to be' verb before the -ing form"
+    ],
+    "follow_up_question": "Is the meeting room ready?",
+    "grammar_explanation_en": "Use 'to be' (am/is/are) before a verb ending in -ing for actions happening now or soon.",
+    "grammar_explanation_vi": "Dùng 'to be' (am/is/are) trước động từ đuôi -ing cho hành động đang hoặc sắp xảy ra."
+  },
+  {
+    "id": "B_OFF_CLIENT_003",
+    "level": "Beginner",
+    "topic": "Office/Business English",
+    "sub_topic": "Meeting Clients",
+    "difficulty_tier": "A1",
+    "ai_question": "How do you usually greet a new client?",
+    "sample_pattern": "I usually greet a new client with a smile and a handshake.",
+    "keywords": [
+      "greet",
+      "smile",
+      "handshake"
+    ],
+    "common_mistakes": [
+      "Missing 's' on the verb with a singular subject 'I' — note 'usually' needs base verb"
+    ],
+    "follow_up_question": "What do you say after the handshake?",
+    "grammar_explanation_en": "With 'I/you/we/they', the verb keeps its base form in the present simple (I greet).",
+    "grammar_explanation_vi": "Với chủ ngữ 'I/you/we/they', động từ giữ nguyên dạng gốc ở thì hiện tại đơn (I greet)."
+  },
+  {
+    "id": "B_OFF_CLIENT_004",
+    "level": "Beginner",
+    "topic": "Office/Business English",
+    "sub_topic": "Meeting Clients",
+    "difficulty_tier": "A1",
+    "ai_question": "What do you usually say to start the meeting?",
+    "sample_pattern": "I usually say, 'Thank you for coming today.'",
+    "keywords": [
+      "thank you for coming"
+    ],
+    "common_mistakes": [
+      "Missing 'for' before the -ing verb"
+    ],
+    "follow_up_question": "What is the first topic you talk about?",
+    "grammar_explanation_en": "Use 'thank you for' + verb-ing to thank someone for an action.",
+    "grammar_explanation_vi": "Dùng 'thank you for' + động từ đuôi -ing để cảm ơn ai đó vì một hành động."
+  },
+  {
+    "id": "B_OFF_CLIENT_005",
+    "level": "Beginner",
+    "topic": "Office/Business English",
+    "sub_topic": "Meeting Clients",
+    "difficulty_tier": "A2",
+    "ai_question": "Did the client arrive on time yesterday?",
+    "sample_pattern": "Yes, the client arrived on time yesterday.",
+    "keywords": [
+      "arrived",
+      "on time"
+    ],
+    "common_mistakes": [
+      "Using base verb instead of past form '-ed'"
+    ],
+    "follow_up_question": "How long did the meeting last?",
+    "grammar_explanation_en": "Regular verbs add '-ed' in the past simple (arrive -> arrived).",
+    "grammar_explanation_vi": "Động từ có quy tắc thêm '-ed' ở thì quá khứ đơn (arrive -> arrived)."
+  },
+  {
+    "id": "B_OFF_CLIENT_006",
+    "level": "Beginner",
+    "topic": "Office/Business English",
+    "sub_topic": "Meeting Clients",
+    "difficulty_tier": "A1",
+    "ai_question": "What does the client want to know about your product?",
+    "sample_pattern": "The client wants to know the price and the delivery time.",
+    "keywords": [
+      "price",
+      "delivery time"
+    ],
+    "common_mistakes": [
+      "Missing 's' on the verb with a singular subject 'the client'"
+    ],
+    "follow_up_question": "Do you have the price list ready?",
+    "grammar_explanation_en": "Add 's' to the verb when the subject is he/she/it or a singular noun (the client wants).",
+    "grammar_explanation_vi": "Thêm 's' vào động từ khi chủ ngữ là he/she/it hoặc danh từ số ít (the client wants)."
+  },
+  {
+    "id": "B_OFF_CLIENT_007",
+    "level": "Beginner",
+    "topic": "Office/Business English",
+    "sub_topic": "Meeting Clients",
+    "difficulty_tier": "A1",
+    "ai_question": "Can you show the client your presentation now?",
+    "sample_pattern": "Yes, I can show the client my presentation now.",
+    "keywords": [
+      "show",
+      "presentation"
+    ],
+    "common_mistakes": [
+      "Missing possessive adjective before 'presentation'"
+    ],
+    "follow_up_question": "How many slides does your presentation have?",
+    "grammar_explanation_en": "Use a possessive adjective (my/your/his/her) before a noun you own.",
+    "grammar_explanation_vi": "Dùng tính từ sở hữu (my/your/his/her) trước danh từ thuộc về mình."
+  },
+  {
+    "id": "B_OFF_CLIENT_008",
+    "level": "Beginner",
+    "topic": "Office/Business English",
+    "sub_topic": "Meeting Clients",
+    "difficulty_tier": "A2",
+    "ai_question": "Is the client happy with your service?",
+    "sample_pattern": "Yes, the client is happy with our service.",
+    "keywords": [
+      "happy with",
+      "service"
+    ],
+    "common_mistakes": [
+      "Missing preposition 'with' after 'happy'"
+    ],
+    "follow_up_question": "What did the client say exactly?",
+    "grammar_explanation_en": "'Happy' is followed by the preposition 'with' when talking about being satisfied with something.",
+    "grammar_explanation_vi": "'Happy' đi kèm giới từ 'with' khi nói về sự hài lòng với điều gì đó."
+  },
+  {
+    "id": "B_OFF_CLIENT_009",
+    "level": "Beginner",
+    "topic": "Office/Business English",
+    "sub_topic": "Meeting Clients",
+    "difficulty_tier": "A1",
+    "ai_question": "What do you need to prepare before meeting a client?",
+    "sample_pattern": "I need to prepare a proposal and some samples.",
+    "keywords": [
+      "prepare",
+      "proposal",
+      "samples"
+    ],
+    "common_mistakes": [
+      "Missing article 'a' before a singular countable noun"
+    ],
+    "follow_up_question": "Do you have the samples ready today?",
+    "grammar_explanation_en": "Use 'a/an' before a singular countable noun (a proposal).",
+    "grammar_explanation_vi": "Dùng 'a/an' trước danh từ đếm được số ít (a proposal)."
+  },
+  {
+    "id": "B_OFF_TEAM_001",
+    "level": "Beginner",
+    "topic": "Office/Business English",
+    "sub_topic": "Team Meetings",
+    "difficulty_tier": "A1",
+    "ai_question": "What time does your team meeting start?",
+    "sample_pattern": "My team meeting starts at nine in the morning.",
+    "keywords": [
+      "starts",
+      "nine in the morning"
+    ],
+    "common_mistakes": [
+      "Missing 's' on the verb with a singular subject"
+    ],
+    "follow_up_question": "How long does the meeting usually last?",
+    "grammar_explanation_en": "Add 's' to the verb for he/she/it in the present simple (the meeting starts).",
+    "grammar_explanation_vi": "Thêm 's' vào động từ cho chủ ngữ he/she/it ở thì hiện tại đơn (the meeting starts)."
+  },
+  {
+    "id": "B_OFF_TEAM_002",
+    "level": "Beginner",
+    "topic": "Office/Business English",
+    "sub_topic": "Team Meetings",
+    "difficulty_tier": "A1",
+    "ai_question": "How often do you have team meetings?",
+    "sample_pattern": "We have team meetings twice a week.",
+    "keywords": [
+      "twice a week"
+    ],
+    "common_mistakes": [
+      "Wrong word order for frequency expression"
+    ],
+    "follow_up_question": "Which days are your team meetings?",
+    "grammar_explanation_en": "Frequency expressions like 'twice a week' usually go at the end of the sentence.",
+    "grammar_explanation_vi": "Các cụm chỉ tần suất như 'twice a week' thường đặt ở cuối câu."
+  },
+  {
+    "id": "B_OFF_TEAM_003",
+    "level": "Beginner",
+    "topic": "Office/Business English",
+    "sub_topic": "Team Meetings",
+    "difficulty_tier": "A1",
+    "ai_question": "Who leads your team meeting?",
+    "sample_pattern": "My manager leads our team meeting.",
+    "keywords": [
+      "leads",
+      "manager"
+    ],
+    "common_mistakes": [
+      "Missing 's' on the verb with a singular subject"
+    ],
+    "follow_up_question": "What does your manager usually talk about?",
+    "grammar_explanation_en": "Add 's' to the verb when the subject is a singular noun (my manager leads).",
+    "grammar_explanation_vi": "Thêm 's' vào động từ khi chủ ngữ là danh từ số ít (my manager leads)."
+  },
+  {
+    "id": "B_OFF_TEAM_004",
+    "level": "Beginner",
+    "topic": "Office/Business English",
+    "sub_topic": "Team Meetings",
+    "difficulty_tier": "A1",
+    "ai_question": "What do you usually talk about in team meetings?",
+    "sample_pattern": "We usually talk about our progress and our problems.",
+    "keywords": [
+      "progress",
+      "problems"
+    ],
+    "common_mistakes": [
+      "Missing possessive adjective before the noun"
+    ],
+    "follow_up_question": "What problem did you discuss last time?",
+    "grammar_explanation_en": "Use a possessive adjective (our/my/your) before a noun to show ownership.",
+    "grammar_explanation_vi": "Dùng tính từ sở hữu (our/my/your) trước danh từ để chỉ sự sở hữu."
+  },
+  {
+    "id": "B_OFF_TEAM_005",
+    "level": "Beginner",
+    "topic": "Office/Business English",
+    "sub_topic": "Team Meetings",
+    "difficulty_tier": "A2",
+    "ai_question": "Did everyone attend the meeting yesterday?",
+    "sample_pattern": "No, one person did not attend the meeting yesterday.",
+    "keywords": [
+      "did not attend"
+    ],
+    "common_mistakes": [
+      "Using 'didn't attended' with a double past marker"
+    ],
+    "follow_up_question": "Why was that person absent?",
+    "grammar_explanation_en": "In negative past sentences, use 'did not/didn't' + base verb, not the past form (didn't attend, not didn't attended).",
+    "grammar_explanation_vi": "Trong câu phủ định thì quá khứ, dùng 'did not/didn't' + động từ nguyên mẫu, không dùng dạng quá khứ (didn't attend, không phải didn't attended)."
+  },
+  {
+    "id": "B_OFF_TEAM_006",
+    "level": "Beginner",
+    "topic": "Office/Business English",
+    "sub_topic": "Team Meetings",
+    "difficulty_tier": "A1",
+    "ai_question": "Do you take notes during team meetings?",
+    "sample_pattern": "Yes, I take notes during team meetings.",
+    "keywords": [
+      "take notes"
+    ],
+    "common_mistakes": [
+      "Missing 's' — check for singular vs plural, 'I' keeps base form"
+    ],
+    "follow_up_question": "Who reads the notes after the meeting?",
+    "grammar_explanation_en": "With 'I/you/we/they', the verb stays in its base form in the present simple (I take).",
+    "grammar_explanation_vi": "Với chủ ngữ 'I/you/we/they', động từ giữ nguyên dạng gốc ở thì hiện tại đơn (I take)."
+  },
+  {
+    "id": "B_OFF_TEAM_007",
+    "level": "Beginner",
+    "topic": "Office/Business English",
+    "sub_topic": "Team Meetings",
+    "difficulty_tier": "A1",
+    "ai_question": "Is your team meeting online or in the office?",
+    "sample_pattern": "Our team meeting is online this week.",
+    "keywords": [
+      "online",
+      "this week"
+    ],
+    "common_mistakes": [
+      "Missing 'to be' verb before the adjective"
+    ],
+    "follow_up_question": "What app do you use for the online meeting?",
+    "grammar_explanation_en": "Use 'to be' (am/is/are) before an adjective (the meeting is online).",
+    "grammar_explanation_vi": "Dùng 'to be' (am/is/are) trước tính từ (the meeting is online)."
+  },
+  {
+    "id": "B_OFF_TEAM_008",
+    "level": "Beginner",
+    "topic": "Office/Business English",
+    "sub_topic": "Team Meetings",
+    "difficulty_tier": "A1",
+    "ai_question": "Can you share your screen in the meeting?",
+    "sample_pattern": "Yes, I can share my screen in the meeting.",
+    "keywords": [
+      "share",
+      "screen"
+    ],
+    "common_mistakes": [
+      "Missing possessive adjective before 'screen'"
+    ],
+    "follow_up_question": "What will you show on your screen?",
+    "grammar_explanation_en": "Use a possessive adjective (my/your) before a noun that belongs to you.",
+    "grammar_explanation_vi": "Dùng tính từ sở hữu (my/your) trước danh từ thuộc về mình."
+  },
+  {
+    "id": "B_OFF_TEAM_009",
+    "level": "Beginner",
+    "topic": "Office/Business English",
+    "sub_topic": "Team Meetings",
+    "difficulty_tier": "A2",
+    "ai_question": "What did your team decide in the last meeting?",
+    "sample_pattern": "Our team decided to finish the project by Friday.",
+    "keywords": [
+      "decided",
+      "by Friday"
+    ],
+    "common_mistakes": [
+      "Using base verb instead of past form '-ed'"
+    ],
+    "follow_up_question": "Is the project on schedule now?",
+    "grammar_explanation_en": "Regular verbs add '-ed' in the past simple (decide -> decided).",
+    "grammar_explanation_vi": "Động từ có quy tắc thêm '-ed' ở thì quá khứ đơn (decide -> decided)."
+  },
+  {
+    "id": "B_OFF_UPDATE_001",
+    "level": "Beginner",
+    "topic": "Office/Business English",
+    "sub_topic": "Giving Updates",
+    "difficulty_tier": "A1",
+    "ai_question": "What is the status of your project today?",
+    "sample_pattern": "My project is on schedule today.",
+    "keywords": [
+      "on schedule"
+    ],
+    "common_mistakes": [
+      "Missing 'to be' verb before the adjective phrase"
+    ],
+    "follow_up_question": "Is there anything blocking your progress?",
+    "grammar_explanation_en": "Use 'to be' (am/is/are) before an adjective or adjective phrase (my project is on schedule).",
+    "grammar_explanation_vi": "Dùng 'to be' (am/is/are) trước tính từ hoặc cụm tính từ (my project is on schedule)."
+  },
+  {
+    "id": "B_OFF_UPDATE_002",
+    "level": "Beginner",
+    "topic": "Office/Business English",
+    "sub_topic": "Giving Updates",
+    "difficulty_tier": "A1",
+    "ai_question": "How much of the task have you finished?",
+    "sample_pattern": "I have finished about eighty percent of the task.",
+    "keywords": [
+      "have finished",
+      "eighty percent"
+    ],
+    "common_mistakes": [
+      "Using past simple instead of present perfect"
+    ],
+    "follow_up_question": "When do you think you will finish the rest?",
+    "grammar_explanation_en": "Use present perfect (have/has + past participle) to talk about progress up to now.",
+    "grammar_explanation_vi": "Dùng thì hiện tại hoàn thành (have/has + động từ phân từ 2) để nói về tiến độ tính đến hiện tại."
+  },
+  {
+    "id": "B_OFF_UPDATE_003",
+    "level": "Beginner",
+    "topic": "Office/Business English",
+    "sub_topic": "Giving Updates",
+    "difficulty_tier": "A1",
+    "ai_question": "What did you do yesterday on this project?",
+    "sample_pattern": "Yesterday, I finished the first part of the report.",
+    "keywords": [
+      "finished",
+      "first part"
+    ],
+    "common_mistakes": [
+      "Using base verb instead of past form '-ed'"
+    ],
+    "follow_up_question": "What will you do today?",
+    "grammar_explanation_en": "Regular verbs add '-ed' in the past simple (finish -> finished).",
+    "grammar_explanation_vi": "Động từ có quy tắc thêm '-ed' ở thì quá khứ đơn (finish -> finished)."
+  },
+  {
+    "id": "B_OFF_UPDATE_004",
+    "level": "Beginner",
+    "topic": "Office/Business English",
+    "sub_topic": "Giving Updates",
+    "difficulty_tier": "A1",
+    "ai_question": "Do you have any problems to report today?",
+    "sample_pattern": "Yes, I have one small problem with the schedule.",
+    "keywords": [
+      "problem",
+      "schedule"
+    ],
+    "common_mistakes": [
+      "Missing article 'a/one' before a singular countable noun"
+    ],
+    "follow_up_question": "How can the team help you solve it?",
+    "grammar_explanation_en": "Use 'a/an' or a number like 'one' before a singular countable noun (one problem).",
+    "grammar_explanation_vi": "Dùng 'a/an' hoặc số từ như 'one' trước danh từ đếm được số ít (one problem)."
+  },
+  {
+    "id": "B_OFF_UPDATE_005",
+    "level": "Beginner",
+    "topic": "Office/Business English",
+    "sub_topic": "Giving Updates",
+    "difficulty_tier": "A2",
+    "ai_question": "When will you complete this task?",
+    "sample_pattern": "I will complete this task by Friday.",
+    "keywords": [
+      "will complete",
+      "by Friday"
+    ],
+    "common_mistakes": [
+      "Using 'until Friday' instead of 'by Friday' for a deadline"
+    ],
+    "follow_up_question": "Do you need any extra help to meet that deadline?",
+    "grammar_explanation_en": "Use 'by' + time to show a deadline (by Friday), not 'until'.",
+    "grammar_explanation_vi": "Dùng 'by' + thời gian để chỉ hạn chót (by Friday), không dùng 'until'."
+  },
+  {
+    "id": "B_OFF_UPDATE_006",
+    "level": "Beginner",
+    "topic": "Office/Business English",
+    "sub_topic": "Giving Updates",
+    "difficulty_tier": "A1",
+    "ai_question": "Is your update ready for the manager?",
+    "sample_pattern": "Yes, my update is ready for the manager.",
+    "keywords": [
+      "update",
+      "ready"
+    ],
+    "common_mistakes": [
+      "Missing 'to be' verb before the adjective"
+    ],
+    "follow_up_question": "Would you like to send it now or present it in the meeting?",
+    "grammar_explanation_en": "Use 'to be' (am/is/are) before an adjective (my update is ready).",
+    "grammar_explanation_vi": "Dùng 'to be' (am/is/are) trước tính từ (my update is ready)."
+  },
+  {
+    "id": "B_OFF_UPDATE_007",
+    "level": "Beginner",
+    "topic": "Office/Business English",
+    "sub_topic": "Giving Updates",
+    "difficulty_tier": "A1",
+    "ai_question": "Who is helping you with this task?",
+    "sample_pattern": "My coworker, Tuan, is helping me with this task.",
+    "keywords": [
+      "is helping"
+    ],
+    "common_mistakes": [
+      "Missing 'to be' verb before the -ing form"
+    ],
+    "follow_up_question": "What part is Tuan helping with?",
+    "grammar_explanation_en": "Use 'to be' (am/is/are) before a verb ending in -ing for an action happening now.",
+    "grammar_explanation_vi": "Dùng 'to be' (am/is/are) trước động từ đuôi -ing cho hành động đang xảy ra."
+  },
+  {
+    "id": "B_OFF_UPDATE_008",
+    "level": "Beginner",
+    "topic": "Office/Business English",
+    "sub_topic": "Giving Updates",
+    "difficulty_tier": "A2",
+    "ai_question": "Did you meet your deadline last week?",
+    "sample_pattern": "Yes, I met my deadline last week.",
+    "keywords": [
+      "met",
+      "deadline"
+    ],
+    "common_mistakes": [
+      "Using base form 'meet' instead of the irregular past 'met'"
+    ],
+    "follow_up_question": "What helped you finish on time?",
+    "grammar_explanation_en": "'Meet' is an irregular verb; its past simple form is 'met', not 'meeted'.",
+    "grammar_explanation_vi": "'Meet' là động từ bất quy tắc, dạng quá khứ đơn là 'met', không phải 'meeted'."
+  },
+  {
+    "id": "B_OFF_UPDATE_009",
+    "level": "Beginner",
+    "topic": "Office/Business English",
+    "sub_topic": "Giving Updates",
+    "difficulty_tier": "A1",
+    "ai_question": "How many tasks do you have this week?",
+    "sample_pattern": "I have three tasks this week.",
+    "keywords": [
+      "three tasks"
+    ],
+    "common_mistakes": [
+      "Missing 's' on the plural noun after a number"
+    ],
+    "follow_up_question": "Which task is the most difficult?",
+    "grammar_explanation_en": "Add 's' to a countable noun after a number greater than one (three tasks).",
+    "grammar_explanation_vi": "Thêm 's' vào danh từ đếm được sau số lớn hơn một (three tasks)."
+  },
+  {
+    "id": "B_OFF_INTERVIEW_001",
+    "level": "Beginner",
+    "topic": "Office/Business English",
+    "sub_topic": "Job Interviews",
+    "difficulty_tier": "A1",
+    "ai_question": "Can you tell me a little about yourself?",
+    "sample_pattern": "I am a hardworking person who likes to learn new things.",
+    "keywords": [
+      "hardworking",
+      "likes to learn"
+    ],
+    "common_mistakes": [
+      "Missing 'to be' verb before the noun phrase"
+    ],
+    "follow_up_question": "What do you like to learn most?",
+    "grammar_explanation_en": "Use 'to be' (am/is/are) before a noun phrase describing yourself (I am a person who...).",
+    "grammar_explanation_vi": "Dùng 'to be' (am/is/are) trước cụm danh từ mô tả bản thân (I am a person who...)."
+  },
+  {
+    "id": "B_OFF_INTERVIEW_002",
+    "level": "Beginner",
+    "topic": "Office/Business English",
+    "sub_topic": "Job Interviews",
+    "difficulty_tier": "A1",
+    "ai_question": "Why do you want to work for our company?",
+    "sample_pattern": "I want to work for your company because it has a good reputation.",
+    "keywords": [
+      "because",
+      "good reputation"
+    ],
+    "common_mistakes": [
+      "Missing 'because' before the reason clause"
+    ],
+    "follow_up_question": "What do you know about our products?",
+    "grammar_explanation_en": "'Because' must be followed by a full clause (subject + verb) to give a reason.",
+    "grammar_explanation_vi": "'Because' phải theo sau bởi một mệnh đề đầy đủ (chủ ngữ + động từ) để đưa ra lý do."
+  },
+  {
+    "id": "B_OFF_INTERVIEW_003",
+    "level": "Beginner",
+    "topic": "Office/Business English",
+    "sub_topic": "Job Interviews",
+    "difficulty_tier": "A1",
+    "ai_question": "What are your strengths?",
+    "sample_pattern": "My strengths are teamwork and good communication.",
+    "keywords": [
+      "strengths",
+      "teamwork"
+    ],
+    "common_mistakes": [
+      "Missing 's' on the plural noun 'strength'"
+    ],
+    "follow_up_question": "Can you give an example of your teamwork?",
+    "grammar_explanation_en": "Add 's' to make a countable noun plural when there is more than one (strengths).",
+    "grammar_explanation_vi": "Thêm 's' vào danh từ đếm được khi có nhiều hơn một (strengths)."
+  },
+  {
+    "id": "B_OFF_INTERVIEW_004",
+    "level": "Beginner",
+    "topic": "Office/Business English",
+    "sub_topic": "Job Interviews",
+    "difficulty_tier": "A1",
+    "ai_question": "What is your biggest weakness?",
+    "sample_pattern": "My biggest weakness is that I sometimes work too slowly.",
+    "keywords": [
+      "weakness",
+      "too slowly"
+    ],
+    "common_mistakes": [
+      "Missing article 'the' before the superlative adjective"
+    ],
+    "follow_up_question": "How are you trying to improve on that?",
+    "grammar_explanation_en": "Use 'the' before a superlative adjective (the biggest weakness).",
+    "grammar_explanation_vi": "Dùng 'the' trước tính từ so sánh nhất (the biggest weakness)."
+  },
+  {
+    "id": "B_OFF_INTERVIEW_005",
+    "level": "Beginner",
+    "topic": "Office/Business English",
+    "sub_topic": "Job Interviews",
+    "difficulty_tier": "A2",
+    "ai_question": "Where did you work before this job?",
+    "sample_pattern": "I worked at a small company before this job.",
+    "keywords": [
+      "worked at"
+    ],
+    "common_mistakes": [
+      "Using base verb instead of past form '-ed'"
+    ],
+    "follow_up_question": "What did you do at that company?",
+    "grammar_explanation_en": "Regular verbs add '-ed' in the past simple (work -> worked).",
+    "grammar_explanation_vi": "Động từ có quy tắc thêm '-ed' ở thì quá khứ đơn (work -> worked)."
+  },
+  {
+    "id": "B_OFF_INTERVIEW_006",
+    "level": "Beginner",
+    "topic": "Office/Business English",
+    "sub_topic": "Job Interviews",
+    "difficulty_tier": "A1",
+    "ai_question": "How many years of experience do you have?",
+    "sample_pattern": "I have three years of experience in this field.",
+    "keywords": [
+      "three years",
+      "experience"
+    ],
+    "common_mistakes": [
+      "Missing 's' on 'year' after a number greater than one"
+    ],
+    "follow_up_question": "What did you learn in those three years?",
+    "grammar_explanation_en": "Add 's' to a countable noun after a number greater than one (three years).",
+    "grammar_explanation_vi": "Thêm 's' vào danh từ đếm được sau số lớn hơn một (three years)."
+  },
+  {
+    "id": "B_OFF_INTERVIEW_007",
+    "level": "Beginner",
+    "topic": "Office/Business English",
+    "sub_topic": "Job Interviews",
+    "difficulty_tier": "A1",
+    "ai_question": "Do you work well in a team?",
+    "sample_pattern": "Yes, I work well in a team.",
+    "keywords": [
+      "work well",
+      "in a team"
+    ],
+    "common_mistakes": [
+      "Missing preposition 'in' before 'a team'"
+    ],
+    "follow_up_question": "Can you describe a time you worked in a team?",
+    "grammar_explanation_en": "Use 'in' before a group noun like 'a team' (work in a team).",
+    "grammar_explanation_vi": "Dùng 'in' trước danh từ chỉ nhóm như 'a team' (work in a team)."
+  },
+  {
+    "id": "B_OFF_INTERVIEW_008",
+    "level": "Beginner",
+    "topic": "Office/Business English",
+    "sub_topic": "Job Interviews",
+    "difficulty_tier": "A1",
+    "ai_question": "What is your highest level of education?",
+    "sample_pattern": "My highest level of education is a bachelor's degree.",
+    "keywords": [
+      "bachelor's degree"
+    ],
+    "common_mistakes": [
+      "Missing possessive 's on 'bachelor'"
+    ],
+    "follow_up_question": "What did you study in university?",
+    "grammar_explanation_en": "Use 's after a noun to show possession (bachelor's degree).",
+    "grammar_explanation_vi": "Dùng 's sau danh từ để chỉ sự sở hữu (bachelor's degree)."
+  },
+  {
+    "id": "B_OFF_PRESENT_001",
+    "level": "Beginner",
+    "topic": "Office/Business English",
+    "sub_topic": "Presentations",
+    "difficulty_tier": "A1",
+    "ai_question": "What is the topic of your presentation today?",
+    "sample_pattern": "The topic of my presentation today is our new product.",
+    "keywords": [
+      "topic",
+      "new product"
+    ],
+    "common_mistakes": [
+      "Missing possessive adjective before 'presentation'"
+    ],
+    "follow_up_question": "How long is your presentation?",
+    "grammar_explanation_en": "Use a possessive adjective (my/your) before a noun that belongs to you.",
+    "grammar_explanation_vi": "Dùng tính từ sở hữu (my/your) trước danh từ thuộc về mình."
+  },
+  {
+    "id": "B_OFF_PRESENT_002",
+    "level": "Beginner",
+    "topic": "Office/Business English",
+    "sub_topic": "Presentations",
+    "difficulty_tier": "A1",
+    "ai_question": "How many slides do you have?",
+    "sample_pattern": "I have ten slides for my presentation.",
+    "keywords": [
+      "ten slides"
+    ],
+    "common_mistakes": [
+      "Missing 's' on 'slide' after a number greater than one"
+    ],
+    "follow_up_question": "Which slide is the most important one?",
+    "grammar_explanation_en": "Add 's' to a countable noun after a number greater than one (ten slides).",
+    "grammar_explanation_vi": "Thêm 's' vào danh từ đếm được sau số lớn hơn một (ten slides)."
+  },
+  {
+    "id": "B_OFF_PRESENT_003",
+    "level": "Beginner",
+    "topic": "Office/Business English",
+    "sub_topic": "Presentations",
+    "difficulty_tier": "A1",
+    "ai_question": "Are you nervous about presenting today?",
+    "sample_pattern": "Yes, I am a little nervous about presenting today.",
+    "keywords": [
+      "nervous",
+      "a little"
+    ],
+    "common_mistakes": [
+      "Missing 'to be' verb before an adjective"
+    ],
+    "follow_up_question": "What helps you feel less nervous?",
+    "grammar_explanation_en": "Use 'to be' (am/is/are) before an adjective describing a feeling (I am nervous).",
+    "grammar_explanation_vi": "Dùng 'to be' (am/is/are) trước tính từ diễn tả cảm xúc (I am nervous)."
+  },
+  {
+    "id": "B_OFF_PRESENT_004",
+    "level": "Beginner",
+    "topic": "Office/Business English",
+    "sub_topic": "Presentations",
+    "difficulty_tier": "A1",
+    "ai_question": "How do you usually start your presentation?",
+    "sample_pattern": "I usually start my presentation with a short introduction.",
+    "keywords": [
+      "start with",
+      "introduction"
+    ],
+    "common_mistakes": [
+      "Missing preposition 'with' before the noun"
+    ],
+    "follow_up_question": "What do you say in your introduction?",
+    "grammar_explanation_en": "Use 'with' before the thing you begin something with (start with an introduction).",
+    "grammar_explanation_vi": "Dùng 'with' trước điều bắt đầu bằng (start with an introduction)."
+  },
+  {
+    "id": "B_OFF_PRESENT_005",
+    "level": "Beginner",
+    "topic": "Office/Business English",
+    "sub_topic": "Presentations",
+    "difficulty_tier": "A2",
+    "ai_question": "Did you practice your presentation before today?",
+    "sample_pattern": "Yes, I practiced my presentation twice before today.",
+    "keywords": [
+      "practiced",
+      "twice"
+    ],
+    "common_mistakes": [
+      "Using base verb instead of past form '-ed'"
+    ],
+    "follow_up_question": "Did practicing help you feel more ready?",
+    "grammar_explanation_en": "Regular verbs add '-ed' in the past simple (practice -> practiced).",
+    "grammar_explanation_vi": "Động từ có quy tắc thêm '-ed' ở thì quá khứ đơn (practice -> practiced)."
+  },
+  {
+    "id": "B_OFF_PRESENT_006",
+    "level": "Beginner",
+    "topic": "Office/Business English",
+    "sub_topic": "Presentations",
+    "difficulty_tier": "A1",
+    "ai_question": "Who is your audience today?",
+    "sample_pattern": "My audience today is the sales team.",
+    "keywords": [
+      "audience",
+      "sales team"
+    ],
+    "common_mistakes": [
+      "Missing possessive adjective before 'audience'"
+    ],
+    "follow_up_question": "What does the sales team want to know?",
+    "grammar_explanation_en": "Use a possessive adjective (my/your) before a noun that belongs to you.",
+    "grammar_explanation_vi": "Dùng tính từ sở hữu (my/your) trước danh từ thuộc về mình."
+  },
+  {
+    "id": "B_OFF_PRESENT_007",
+    "level": "Beginner",
+    "topic": "Office/Business English",
+    "sub_topic": "Presentations",
+    "difficulty_tier": "A1",
+    "ai_question": "Do you use pictures in your slides?",
+    "sample_pattern": "Yes, I use pictures to make my slides more interesting.",
+    "keywords": [
+      "pictures",
+      "interesting"
+    ],
+    "common_mistakes": [
+      "Missing 'to' before the base verb after 'to make'"
+    ],
+    "follow_up_question": "What kind of pictures do you use?",
+    "grammar_explanation_en": "Use 'to' + base verb to explain a purpose (to make my slides more interesting).",
+    "grammar_explanation_vi": "Dùng 'to' + động từ nguyên mẫu để giải thích mục đích (to make my slides more interesting)."
+  },
+  {
+    "id": "B_OFF_PRESENT_008",
+    "level": "Beginner",
+    "topic": "Office/Business English",
+    "sub_topic": "Presentations",
+    "difficulty_tier": "A1",
+    "ai_question": "How long will your presentation take?",
+    "sample_pattern": "My presentation will take about fifteen minutes.",
+    "keywords": [
+      "will take",
+      "fifteen minutes"
+    ],
+    "common_mistakes": [
+      "Missing 'about' before the approximate time"
+    ],
+    "follow_up_question": "Is there time for questions after?",
+    "grammar_explanation_en": "Use 'about' before an approximate number or time (about fifteen minutes).",
+    "grammar_explanation_vi": "Dùng 'about' trước số hoặc thời gian ước lượng (about fifteen minutes)."
+  },
+  {
+    "id": "B_DL_GREET_001",
+    "level": "Beginner",
+    "topic": "Daily Conversation",
+    "sub_topic": "Greetings",
+    "difficulty_tier": "A1",
+    "ai_question": "Hi! How are you today?",
+    "sample_pattern": "I am fine, thank you. How about you?",
+    "keywords": [
+      "I am fine",
+      "thank you"
+    ],
+    "common_mistakes": [
+      "Missing 'to be' verb before the adjective"
+    ],
+    "follow_up_question": "That's great to hear! What are your plans today?",
+    "grammar_explanation_en": "Use 'to be' (am/is/are) before an adjective describing how you feel (I am fine).",
+    "grammar_explanation_vi": "Dùng 'to be' (am/is/are) trước tính từ diễn tả cảm giác (I am fine)."
+  },
+  {
+    "id": "B_DL_GREET_002",
+    "level": "Beginner",
+    "topic": "Daily Conversation",
+    "sub_topic": "Greetings",
+    "difficulty_tier": "A1",
+    "ai_question": "Good morning! Did you sleep well?",
+    "sample_pattern": "Good morning! Yes, I slept well, thank you.",
+    "keywords": [
+      "slept well"
+    ],
+    "common_mistakes": [
+      "Using base verb 'sleep' instead of the irregular past 'slept'"
+    ],
+    "follow_up_question": "What are you doing this morning?",
+    "grammar_explanation_en": "'Sleep' is an irregular verb; its past simple form is 'slept', not 'sleeped'.",
+    "grammar_explanation_vi": "'Sleep' là động từ bất quy tắc, dạng quá khứ đơn là 'slept', không phải 'sleeped'."
+  },
+  {
+    "id": "B_DL_GREET_003",
+    "level": "Beginner",
+    "topic": "Daily Conversation",
+    "sub_topic": "Greetings",
+    "difficulty_tier": "A1",
+    "ai_question": "What is your name?",
+    "sample_pattern": "My name is Khoa. Nice to meet you.",
+    "keywords": [
+      "my name is",
+      "nice to meet you"
+    ],
+    "common_mistakes": [
+      "Missing 'to be' verb before the name"
+    ],
+    "follow_up_question": "Nice to meet you too, Khoa. Where are you from?",
+    "grammar_explanation_en": "Use 'to be' (is) to introduce your name (my name is...).",
+    "grammar_explanation_vi": "Dùng 'to be' (is) để giới thiệu tên (my name is...)."
+  },
+  {
+    "id": "B_DL_GREET_004",
+    "level": "Beginner",
+    "topic": "Daily Conversation",
+    "sub_topic": "Greetings",
+    "difficulty_tier": "A1",
+    "ai_question": "Where are you from?",
+    "sample_pattern": "I am from Vietnam.",
+    "keywords": [
+      "I am from"
+    ],
+    "common_mistakes": [
+      "Missing preposition 'from' before the country"
+    ],
+    "follow_up_question": "Which city in Vietnam are you from?",
+    "grammar_explanation_en": "Use 'from' before the place you come from (I am from Vietnam).",
+    "grammar_explanation_vi": "Dùng 'from' trước nơi mình đến (I am from Vietnam)."
+  },
+  {
+    "id": "B_DL_GREET_005",
+    "level": "Beginner",
+    "topic": "Daily Conversation",
+    "sub_topic": "Greetings",
+    "difficulty_tier": "A1",
+    "ai_question": "How is your family doing?",
+    "sample_pattern": "My family is doing well, thank you for asking.",
+    "keywords": [
+      "doing well"
+    ],
+    "common_mistakes": [
+      "Missing 'to be' verb before the -ing form"
+    ],
+    "follow_up_question": "Do you live with your family?",
+    "grammar_explanation_en": "Use 'to be' (am/is/are) before a verb ending in -ing (my family is doing well).",
+    "grammar_explanation_vi": "Dùng 'to be' (am/is/are) trước động từ đuôi -ing (my family is doing well)."
+  },
+  {
+    "id": "B_DL_GREET_006",
+    "level": "Beginner",
+    "topic": "Daily Conversation",
+    "sub_topic": "Greetings",
+    "difficulty_tier": "A1",
+    "ai_question": "Long time no see! What have you been doing?",
+    "sample_pattern": "I have been working a lot these days.",
+    "keywords": [
+      "have been working"
+    ],
+    "common_mistakes": [
+      "Using present simple instead of present perfect continuous"
+    ],
+    "follow_up_question": "Are you still working at the same company?",
+    "grammar_explanation_en": "Use present perfect continuous (have/has been + verb-ing) for an action continuing up to now.",
+    "grammar_explanation_vi": "Dùng thì hiện tại hoàn thành tiếp diễn (have/has been + động từ -ing) cho hành động tiếp diễn đến hiện tại."
+  },
+  {
+    "id": "B_DL_GREET_007",
+    "level": "Beginner",
+    "topic": "Daily Conversation",
+    "sub_topic": "Greetings",
+    "difficulty_tier": "A1",
+    "ai_question": "Nice weather today, isn't it?",
+    "sample_pattern": "Yes, it is really nice today.",
+    "keywords": [
+      "really nice"
+    ],
+    "common_mistakes": [
+      "Missing 'it' as the subject for weather sentences"
+    ],
+    "follow_up_question": "Do you have any plans to enjoy the weather?",
+    "grammar_explanation_en": "Use 'it' as the subject when talking about the weather (it is nice).",
+    "grammar_explanation_vi": "Dùng 'it' làm chủ ngữ khi nói về thời tiết (it is nice)."
+  },
+  {
+    "id": "B_DL_GREET_008",
+    "level": "Beginner",
+    "topic": "Daily Conversation",
+    "sub_topic": "Greetings",
+    "difficulty_tier": "A1",
+    "ai_question": "How was your weekend?",
+    "sample_pattern": "My weekend was great. I visited my parents.",
+    "keywords": [
+      "was great",
+      "visited"
+    ],
+    "common_mistakes": [
+      "Using base verb instead of past form '-ed'"
+    ],
+    "follow_up_question": "What did you do with your parents?",
+    "grammar_explanation_en": "Regular verbs add '-ed' in the past simple (visit -> visited).",
+    "grammar_explanation_vi": "Động từ có quy tắc thêm '-ed' ở thì quá khứ đơn (visit -> visited)."
+  },
+  {
+    "id": "B_DL_FOOD_001",
+    "level": "Beginner",
+    "topic": "Daily Conversation",
+    "sub_topic": "Ordering Food",
+    "difficulty_tier": "A1",
+    "ai_question": "What would you like to order for your lunch?",
+    "sample_pattern": "I would like to order a chicken burger and a coke, please.",
+    "keywords": [
+      "I would like",
+      "please"
+    ],
+    "common_mistakes": [
+      "Missing 'please' at the end of a polite request"
+    ],
+    "follow_up_question": "Would you like anything else with that?",
+    "grammar_explanation_en": "Use 'I would like to + verb' or 'I'd like + noun' to order politely, and add 'please'.",
+    "grammar_explanation_vi": "Dùng 'I would like to + động từ' hoặc 'I'd like + danh từ' khi gọi món lịch sự, thêm 'please'."
+  },
+  {
+    "id": "B_DL_FOOD_002",
+    "level": "Beginner",
+    "topic": "Daily Conversation",
+    "sub_topic": "Ordering Food",
+    "difficulty_tier": "A1",
+    "ai_question": "Would you like anything to drink?",
+    "sample_pattern": "Yes, I would like a glass of water, please.",
+    "keywords": [
+      "a glass of water"
+    ],
+    "common_mistakes": [
+      "Missing article 'a' before 'glass'"
+    ],
+    "follow_up_question": "Still or sparkling water?",
+    "grammar_explanation_en": "Use 'a' before a singular countable unit (a glass of water).",
+    "grammar_explanation_vi": "Dùng 'a' trước đơn vị đếm được số ít (a glass of water)."
+  },
+  {
+    "id": "B_DL_FOOD_003",
+    "level": "Beginner",
+    "topic": "Daily Conversation",
+    "sub_topic": "Ordering Food",
+    "difficulty_tier": "A1",
+    "ai_question": "Is the food here spicy?",
+    "sample_pattern": "Yes, some dishes here are quite spicy.",
+    "keywords": [
+      "quite spicy"
+    ],
+    "common_mistakes": [
+      "Missing 'to be' verb before the adjective"
+    ],
+    "follow_up_question": "Do you enjoy spicy food?",
+    "grammar_explanation_en": "Use 'to be' (am/is/are) before an adjective (dishes are spicy).",
+    "grammar_explanation_vi": "Dùng 'to be' (am/is/are) trước tính từ (dishes are spicy)."
+  },
+  {
+    "id": "B_DL_FOOD_004",
+    "level": "Beginner",
+    "topic": "Daily Conversation",
+    "sub_topic": "Ordering Food",
+    "difficulty_tier": "A1",
+    "ai_question": "Do you want your steak well done or medium?",
+    "sample_pattern": "I want my steak medium, please.",
+    "keywords": [
+      "medium"
+    ],
+    "common_mistakes": [
+      "Missing possessive adjective before 'steak'"
+    ],
+    "follow_up_question": "Would you like any sauce with your steak?",
+    "grammar_explanation_en": "Use a possessive adjective (my/your) before a noun that belongs to you.",
+    "grammar_explanation_vi": "Dùng tính từ sở hữu (my/your) trước danh từ thuộc về mình."
+  },
+  {
+    "id": "B_DL_FOOD_005",
+    "level": "Beginner",
+    "topic": "Daily Conversation",
+    "sub_topic": "Ordering Food",
+    "difficulty_tier": "A2",
+    "ai_question": "Did you enjoy your meal?",
+    "sample_pattern": "Yes, I enjoyed my meal very much.",
+    "keywords": [
+      "enjoyed"
+    ],
+    "common_mistakes": [
+      "Using base verb instead of past form '-ed'"
+    ],
+    "follow_up_question": "What dish did you like the most?",
+    "grammar_explanation_en": "Regular verbs add '-ed' in the past simple (enjoy -> enjoyed).",
+    "grammar_explanation_vi": "Động từ có quy tắc thêm '-ed' ở thì quá khứ đơn (enjoy -> enjoyed)."
+  },
+  {
+    "id": "B_DL_FOOD_006",
+    "level": "Beginner",
+    "topic": "Daily Conversation",
+    "sub_topic": "Ordering Food",
+    "difficulty_tier": "A1",
+    "ai_question": "Do you have any food allergies I should know about?",
+    "sample_pattern": "I don't have any food allergies.",
+    "keywords": [
+      "don't have",
+      "allergies"
+    ],
+    "common_mistakes": [
+      "Missing 'don't' auxiliary in the negative sentence"
+    ],
+    "follow_up_question": "Great, is there anything you don't like to eat?",
+    "grammar_explanation_en": "Use 'don't' + base verb for negative sentences with I/you/we/they in the present simple.",
+    "grammar_explanation_vi": "Dùng 'don't' + động từ nguyên mẫu cho câu phủ định với I/you/we/they ở thì hiện tại đơn."
+  },
+  {
+    "id": "B_DL_FOOD_007",
+    "level": "Beginner",
+    "topic": "Daily Conversation",
+    "sub_topic": "Ordering Food",
+    "difficulty_tier": "A1",
+    "ai_question": "Can I get you some more rice?",
+    "sample_pattern": "Yes, please. I would like some more rice.",
+    "keywords": [
+      "some more rice"
+    ],
+    "common_mistakes": [
+      "Missing 'some' before an uncountable noun"
+    ],
+    "follow_up_question": "Would you like anything else with your rice?",
+    "grammar_explanation_en": "Use 'some' before an uncountable noun in an offer or request (some more rice).",
+    "grammar_explanation_vi": "Dùng 'some' trước danh từ không đếm được trong lời đề nghị hoặc yêu cầu (some more rice)."
+  },
+  {
+    "id": "B_DL_FOOD_008",
+    "level": "Beginner",
+    "topic": "Daily Conversation",
+    "sub_topic": "Ordering Food",
+    "difficulty_tier": "A1",
+    "ai_question": "How do you like your coffee?",
+    "sample_pattern": "I like my coffee with a little sugar.",
+    "keywords": [
+      "with a little sugar"
+    ],
+    "common_mistakes": [
+      "Missing possessive adjective before 'coffee'"
+    ],
+    "follow_up_question": "Do you drink coffee every day?",
+    "grammar_explanation_en": "Use a possessive adjective (my/your) before a noun that belongs to you.",
+    "grammar_explanation_vi": "Dùng tính từ sở hữu (my/your) trước danh từ thuộc về mình."
+  },
+  {
+    "id": "B_DL_SHOP_001",
+    "level": "Beginner",
+    "topic": "Daily Conversation",
+    "sub_topic": "Shopping",
+    "difficulty_tier": "A1",
+    "ai_question": "Can I help you find something?",
+    "sample_pattern": "Yes, I am looking for a new jacket.",
+    "keywords": [
+      "looking for"
+    ],
+    "common_mistakes": [
+      "Missing 'to be' verb before the -ing form"
+    ],
+    "follow_up_question": "What color jacket do you want?",
+    "grammar_explanation_en": "Use 'to be' (am/is/are) before a verb ending in -ing (I am looking).",
+    "grammar_explanation_vi": "Dùng 'to be' (am/is/are) trước động từ đuôi -ing (I am looking)."
+  },
+  {
+    "id": "B_DL_SHOP_002",
+    "level": "Beginner",
+    "topic": "Daily Conversation",
+    "sub_topic": "Shopping",
+    "difficulty_tier": "A1",
+    "ai_question": "What size do you wear?",
+    "sample_pattern": "I wear a medium size.",
+    "keywords": [
+      "medium size"
+    ],
+    "common_mistakes": [
+      "Missing article 'a' before 'medium size'"
+    ],
+    "follow_up_question": "Would you like to try it on?",
+    "grammar_explanation_en": "Use 'a' before a singular countable noun phrase (a medium size).",
+    "grammar_explanation_vi": "Dùng 'a' trước cụm danh từ đếm được số ít (a medium size)."
+  },
+  {
+    "id": "B_DL_SHOP_003",
+    "level": "Beginner",
+    "topic": "Daily Conversation",
+    "sub_topic": "Shopping",
+    "difficulty_tier": "A1",
+    "ai_question": "Do you want to try it on?",
+    "sample_pattern": "Yes, I want to try it on, please.",
+    "keywords": [
+      "try it on"
+    ],
+    "common_mistakes": [
+      "Missing 'to' before the base verb after 'want'"
+    ],
+    "follow_up_question": "The fitting room is over there.",
+    "grammar_explanation_en": "'Want' is followed by 'to' + base verb (want to try).",
+    "grammar_explanation_vi": "'Want' đi kèm 'to' + động từ nguyên mẫu (want to try)."
+  },
+  {
+    "id": "B_DL_SHOP_004",
+    "level": "Beginner",
+    "topic": "Daily Conversation",
+    "sub_topic": "Shopping",
+    "difficulty_tier": "A1",
+    "ai_question": "How much does this shirt cost?",
+    "sample_pattern": "This shirt costs twenty dollars.",
+    "keywords": [
+      "costs"
+    ],
+    "common_mistakes": [
+      "Missing 's' on the verb with a singular subject"
+    ],
+    "follow_up_question": "Is there a discount today?",
+    "grammar_explanation_en": "Add 's' to the verb for a singular subject in the present simple (this shirt costs).",
+    "grammar_explanation_vi": "Thêm 's' vào động từ cho chủ ngữ số ít ở thì hiện tại đơn (this shirt costs)."
+  },
+  {
+    "id": "B_DL_SHOP_005",
+    "level": "Beginner",
+    "topic": "Daily Conversation",
+    "sub_topic": "Shopping",
+    "difficulty_tier": "A1",
+    "ai_question": "Is there a discount on this item?",
+    "sample_pattern": "Yes, there is a twenty percent discount on this item.",
+    "keywords": [
+      "discount"
+    ],
+    "common_mistakes": [
+      "Missing article 'a' before 'discount'"
+    ],
+    "follow_up_question": "Does the discount apply to all sizes?",
+    "grammar_explanation_en": "Use 'a' before a singular countable noun (a discount).",
+    "grammar_explanation_vi": "Dùng 'a' trước danh từ đếm được số ít (a discount)."
+  },
+  {
+    "id": "B_DL_SHOP_006",
+    "level": "Beginner",
+    "topic": "Daily Conversation",
+    "sub_topic": "Shopping",
+    "difficulty_tier": "A1",
+    "ai_question": "What color do you prefer, black or white?",
+    "sample_pattern": "I prefer black to white.",
+    "keywords": [
+      "prefer...to"
+    ],
+    "common_mistakes": [
+      "Using 'than' instead of 'to' after 'prefer'"
+    ],
+    "follow_up_question": "Do you have this shirt in black?",
+    "grammar_explanation_en": "Use 'prefer A to B' to compare two preferences, not 'than'.",
+    "grammar_explanation_vi": "Dùng 'prefer A to B' để so sánh hai điều thích hơn, không dùng 'than'."
+  },
+  {
+    "id": "B_DL_SHOP_007",
+    "level": "Beginner",
+    "topic": "Daily Conversation",
+    "sub_topic": "Shopping",
+    "difficulty_tier": "A2",
+    "ai_question": "Did you buy anything else today?",
+    "sample_pattern": "Yes, I bought a pair of shoes today.",
+    "keywords": [
+      "bought"
+    ],
+    "common_mistakes": [
+      "Using base form 'buy' instead of the irregular past 'bought'"
+    ],
+    "follow_up_question": "What color are the shoes?",
+    "grammar_explanation_en": "'Buy' is an irregular verb; its past simple form is 'bought', not 'buyed'.",
+    "grammar_explanation_vi": "'Buy' là động từ bất quy tắc, dạng quá khứ đơn là 'bought', không phải 'buyed'."
+  },
+  {
+    "id": "B_DL_SHOP_008",
+    "level": "Beginner",
+    "topic": "Daily Conversation",
+    "sub_topic": "Shopping",
+    "difficulty_tier": "A1",
+    "ai_question": "Do you accept credit cards?",
+    "sample_pattern": "Yes, we accept credit cards here.",
+    "keywords": [
+      "accept",
+      "credit cards"
+    ],
+    "common_mistakes": [
+      "Missing 's' on the plural noun 'card'"
+    ],
+    "follow_up_question": "Do you also accept cash?",
+    "grammar_explanation_en": "Add 's' to make a countable noun plural (card -> cards).",
+    "grammar_explanation_vi": "Thêm 's' để tạo danh từ số nhiều (card -> cards)."
+  },
+  {
+    "id": "B_DL_DIRECTION_001",
+    "level": "Beginner",
+    "topic": "Daily Conversation",
+    "sub_topic": "Asking for Directions",
+    "difficulty_tier": "A1",
+    "ai_question": "Excuse me, where is the nearest bus stop?",
+    "sample_pattern": "The nearest bus stop is next to the bank.",
+    "keywords": [
+      "next to"
+    ],
+    "common_mistakes": [
+      "Missing 'the' before 'nearest bus stop'"
+    ],
+    "follow_up_question": "How far is it from here?",
+    "grammar_explanation_en": "Use 'the' before a superlative adjective like 'nearest' (the nearest bus stop).",
+    "grammar_explanation_vi": "Dùng 'the' trước tính từ so sánh nhất như 'nearest' (the nearest bus stop)."
+  },
+  {
+    "id": "B_DL_DIRECTION_002",
+    "level": "Beginner",
+    "topic": "Daily Conversation",
+    "sub_topic": "Asking for Directions",
+    "difficulty_tier": "A1",
+    "ai_question": "How do I get to the train station from here?",
+    "sample_pattern": "You can walk straight and turn left at the corner.",
+    "keywords": [
+      "turn left"
+    ],
+    "common_mistakes": [
+      "Missing 'at' before the location word 'corner'"
+    ],
+    "follow_up_question": "How many minutes does it take to walk there?",
+    "grammar_explanation_en": "Use 'at' before a specific point like a corner (turn left at the corner).",
+    "grammar_explanation_vi": "Dùng 'at' trước một điểm cụ thể như góc đường (turn left at the corner)."
+  },
+  {
+    "id": "B_DL_DIRECTION_003",
+    "level": "Beginner",
+    "topic": "Daily Conversation",
+    "sub_topic": "Asking for Directions",
+    "difficulty_tier": "A1",
+    "ai_question": "Is the supermarket far from here?",
+    "sample_pattern": "No, the supermarket is not far from here.",
+    "keywords": [
+      "not far from"
+    ],
+    "common_mistakes": [
+      "Missing 'to be' verb in the negative sentence"
+    ],
+    "follow_up_question": "How many minutes does it take to walk there?",
+    "grammar_explanation_en": "Use 'to be' + not (is not) before an adjective in a negative sentence.",
+    "grammar_explanation_vi": "Dùng 'to be' + not (is not) trước tính từ trong câu phủ định."
+  },
+  {
+    "id": "B_DL_DIRECTION_004",
+    "level": "Beginner",
+    "topic": "Daily Conversation",
+    "sub_topic": "Asking for Directions",
+    "difficulty_tier": "A1",
+    "ai_question": "Which way is the hospital?",
+    "sample_pattern": "The hospital is that way, on your right.",
+    "keywords": [
+      "on your right"
+    ],
+    "common_mistakes": [
+      "Missing preposition 'on' before 'your right'"
+    ],
+    "follow_up_question": "Is it a big hospital?",
+    "grammar_explanation_en": "Use 'on' before 'your right/left' to give directions (on your right).",
+    "grammar_explanation_vi": "Dùng 'on' trước 'your right/left' để chỉ đường (on your right)."
+  },
+  {
+    "id": "B_DL_DIRECTION_005",
+    "level": "Beginner",
+    "topic": "Daily Conversation",
+    "sub_topic": "Asking for Directions",
+    "difficulty_tier": "A1",
+    "ai_question": "Can you show me the way to the park?",
+    "sample_pattern": "Yes, the park is two blocks from here.",
+    "keywords": [
+      "two blocks"
+    ],
+    "common_mistakes": [
+      "Missing 's' on 'block' after a number greater than one"
+    ],
+    "follow_up_question": "Is there a shortcut through the alley?",
+    "grammar_explanation_en": "Add 's' to a countable noun after a number greater than one (two blocks).",
+    "grammar_explanation_vi": "Thêm 's' vào danh từ đếm được sau số lớn hơn một (two blocks)."
+  },
+  {
+    "id": "B_DL_DIRECTION_006",
+    "level": "Beginner",
+    "topic": "Daily Conversation",
+    "sub_topic": "Asking for Directions",
+    "difficulty_tier": "A1",
+    "ai_question": "Do I need to take a taxi, or can I walk there?",
+    "sample_pattern": "You can walk there; it is not too far.",
+    "keywords": [
+      "not too far"
+    ],
+    "common_mistakes": [
+      "Missing 'to be' verb in the negative sentence"
+    ],
+    "follow_up_question": "How long does it take on foot?",
+    "grammar_explanation_en": "Use 'to be' + not (is not) before an adjective in a negative sentence.",
+    "grammar_explanation_vi": "Dùng 'to be' + not (is not) trước tính từ trong câu phủ định."
+  },
+  {
+    "id": "B_DL_DIRECTION_007",
+    "level": "Beginner",
+    "topic": "Daily Conversation",
+    "sub_topic": "Asking for Directions",
+    "difficulty_tier": "A2",
+    "ai_question": "How long does it take to get to the airport?",
+    "sample_pattern": "It takes about thirty minutes to get to the airport.",
+    "keywords": [
+      "takes",
+      "about"
+    ],
+    "common_mistakes": [
+      "Missing 'it' as the subject for time expressions"
+    ],
+    "follow_up_question": "Should we leave now to avoid traffic?",
+    "grammar_explanation_en": "Use 'it' as the subject when talking about time or distance (it takes thirty minutes).",
+    "grammar_explanation_vi": "Dùng 'it' làm chủ ngữ khi nói về thời gian hoặc khoảng cách (it takes thirty minutes)."
+  },
+  {
+    "id": "B_DL_DIRECTION_008",
+    "level": "Beginner",
+    "topic": "Daily Conversation",
+    "sub_topic": "Asking for Directions",
+    "difficulty_tier": "A1",
+    "ai_question": "Is there a pharmacy near here?",
+    "sample_pattern": "Yes, there is a pharmacy near here.",
+    "keywords": [
+      "pharmacy"
+    ],
+    "common_mistakes": [
+      "Missing article 'a' before a singular countable noun"
+    ],
+    "follow_up_question": "Is it open right now?",
+    "grammar_explanation_en": "Use 'a' before a singular countable noun (a pharmacy).",
+    "grammar_explanation_vi": "Dùng 'a' trước danh từ đếm được số ít (a pharmacy)."
+  },
+  {
+    "id": "B_DL_TRAVEL_001",
+    "level": "Beginner",
+    "topic": "Daily Conversation",
+    "sub_topic": "Travel",
+    "difficulty_tier": "A1",
+    "ai_question": "Where are you going on your next trip?",
+    "sample_pattern": "I am going to Da Nang on my next trip.",
+    "keywords": [
+      "going to"
+    ],
+    "common_mistakes": [
+      "Missing 'to be' verb before the -ing form"
+    ],
+    "follow_up_question": "How long will you stay there?",
+    "grammar_explanation_en": "Use 'to be' (am/is/are) before a verb ending in -ing (I am going).",
+    "grammar_explanation_vi": "Dùng 'to be' (am/is/are) trước động từ đuôi -ing (I am going)."
+  },
+  {
+    "id": "B_DL_TRAVEL_002",
+    "level": "Beginner",
+    "topic": "Daily Conversation",
+    "sub_topic": "Travel",
+    "difficulty_tier": "A1",
+    "ai_question": "How do you usually travel, by plane or by car?",
+    "sample_pattern": "I usually travel by plane.",
+    "keywords": [
+      "by plane"
+    ],
+    "common_mistakes": [
+      "Missing preposition 'by' before the mode of transport"
+    ],
+    "follow_up_question": "Do you like flying?",
+    "grammar_explanation_en": "Use 'by' before a mode of transport (by plane, by car).",
+    "grammar_explanation_vi": "Dùng 'by' trước phương tiện di chuyển (by plane, by car)."
+  },
+  {
+    "id": "B_DL_TRAVEL_003",
+    "level": "Beginner",
+    "topic": "Daily Conversation",
+    "sub_topic": "Travel",
+    "difficulty_tier": "A1",
+    "ai_question": "Have you packed your suitcase yet?",
+    "sample_pattern": "Yes, I have already packed my suitcase.",
+    "keywords": [
+      "have packed"
+    ],
+    "common_mistakes": [
+      "Using past simple instead of present perfect"
+    ],
+    "follow_up_question": "Did you forget anything important?",
+    "grammar_explanation_en": "Use present perfect (have/has + past participle) for a completed action relevant to now.",
+    "grammar_explanation_vi": "Dùng thì hiện tại hoàn thành (have/has + động từ phân từ 2) cho hành động đã hoàn thành liên quan đến hiện tại."
+  },
+  {
+    "id": "B_DL_TRAVEL_004",
+    "level": "Beginner",
+    "topic": "Daily Conversation",
+    "sub_topic": "Travel",
+    "difficulty_tier": "A1",
+    "ai_question": "What time does your flight leave?",
+    "sample_pattern": "My flight leaves at seven in the morning.",
+    "keywords": [
+      "leaves at"
+    ],
+    "common_mistakes": [
+      "Missing 's' on the verb with a singular subject"
+    ],
+    "follow_up_question": "What time do you need to arrive at the airport?",
+    "grammar_explanation_en": "Add 's' to the verb for he/she/it in the present simple (my flight leaves).",
+    "grammar_explanation_vi": "Thêm 's' vào động từ cho chủ ngữ he/she/it ở thì hiện tại đơn (my flight leaves)."
+  },
+  {
+    "id": "B_DL_TRAVEL_005",
+    "level": "Beginner",
+    "topic": "Daily Conversation",
+    "sub_topic": "Travel",
+    "difficulty_tier": "A1",
+    "ai_question": "Do you have your passport with you?",
+    "sample_pattern": "Yes, I have my passport with me.",
+    "keywords": [
+      "passport"
+    ],
+    "common_mistakes": [
+      "Missing possessive adjective before 'passport'"
+    ],
+    "follow_up_question": "Is your passport still valid?",
+    "grammar_explanation_en": "Use a possessive adjective (my/your) before a noun that belongs to you.",
+    "grammar_explanation_vi": "Dùng tính từ sở hữu (my/your) trước danh từ thuộc về mình."
+  },
+  {
+    "id": "B_DL_TRAVEL_006",
+    "level": "Beginner",
+    "topic": "Daily Conversation",
+    "sub_topic": "Travel",
+    "difficulty_tier": "A2",
+    "ai_question": "Did you enjoy your last vacation?",
+    "sample_pattern": "Yes, I enjoyed my last vacation a lot.",
+    "keywords": [
+      "enjoyed"
+    ],
+    "common_mistakes": [
+      "Using base verb instead of past form '-ed'"
+    ],
+    "follow_up_question": "Where did you go on that vacation?",
+    "grammar_explanation_en": "Regular verbs add '-ed' in the past simple (enjoy -> enjoyed).",
+    "grammar_explanation_vi": "Động từ có quy tắc thêm '-ed' ở thì quá khứ đơn (enjoy -> enjoyed)."
+  },
+  {
+    "id": "B_DL_TRAVEL_007",
+    "level": "Beginner",
+    "topic": "Daily Conversation",
+    "sub_topic": "Travel",
+    "difficulty_tier": "A1",
+    "ai_question": "Where will you stay during your trip?",
+    "sample_pattern": "I will stay at a small hotel near the beach.",
+    "keywords": [
+      "stay at"
+    ],
+    "common_mistakes": [
+      "Missing preposition 'at' before the accommodation"
+    ],
+    "follow_up_question": "Is the hotel expensive?",
+    "grammar_explanation_en": "Use 'at' before a place you stay (stay at a hotel).",
+    "grammar_explanation_vi": "Dùng 'at' trước nơi ở (stay at a hotel)."
+  },
+  {
+    "id": "B_DL_TRAVEL_008",
+    "level": "Beginner",
+    "topic": "Daily Conversation",
+    "sub_topic": "Travel",
+    "difficulty_tier": "A1",
+    "ai_question": "How many bags are you bringing?",
+    "sample_pattern": "I am bringing two bags.",
+    "keywords": [
+      "two bags"
+    ],
+    "common_mistakes": [
+      "Missing 's' on 'bag' after a number greater than one"
+    ],
+    "follow_up_question": "Do you need help carrying them?",
+    "grammar_explanation_en": "Add 's' to a countable noun after a number greater than one (two bags).",
+    "grammar_explanation_vi": "Thêm 's' vào danh từ đếm được sau số lớn hơn một (two bags)."
+  },
+  {
+    "id": "B_DL_HOBBY_001",
+    "level": "Beginner",
+    "topic": "Daily Conversation",
+    "sub_topic": "Talking About Hobbies",
+    "difficulty_tier": "A1",
+    "ai_question": "What do you like to do in your free time?",
+    "sample_pattern": "I like to read books in my free time.",
+    "keywords": [
+      "free time",
+      "read books"
+    ],
+    "common_mistakes": [
+      "Missing 'to' before the base verb after 'like'"
+    ],
+    "follow_up_question": "What kind of books do you like to read?",
+    "grammar_explanation_en": "'Like' can be followed by 'to' + base verb (like to read).",
+    "grammar_explanation_vi": "'Like' có thể đi kèm 'to' + động từ nguyên mẫu (like to read)."
+  },
+  {
+    "id": "B_DL_HOBBY_002",
+    "level": "Beginner",
+    "topic": "Daily Conversation",
+    "sub_topic": "Talking About Hobbies",
+    "difficulty_tier": "A1",
+    "ai_question": "Do you play any sports?",
+    "sample_pattern": "Yes, I play football on weekends.",
+    "keywords": [
+      "play football"
+    ],
+    "common_mistakes": [
+      "Missing 's' — check base form with 'I' subject"
+    ],
+    "follow_up_question": "How often do you play?",
+    "grammar_explanation_en": "With 'I/you/we/they', the verb stays in its base form in the present simple (I play).",
+    "grammar_explanation_vi": "Với chủ ngữ 'I/you/we/they', động từ giữ nguyên dạng gốc ở thì hiện tại đơn (I play)."
+  },
+  {
+    "id": "B_DL_HOBBY_003",
+    "level": "Beginner",
+    "topic": "Daily Conversation",
+    "sub_topic": "Talking About Hobbies",
+    "difficulty_tier": "A1",
+    "ai_question": "How long have you had this hobby?",
+    "sample_pattern": "I have had this hobby for five years.",
+    "keywords": [
+      "have had",
+      "for five years"
+    ],
+    "common_mistakes": [
+      "Using past simple instead of present perfect with 'for'"
+    ],
+    "follow_up_question": "How did you first get interested in it?",
+    "grammar_explanation_en": "Use present perfect (have/has + past participle) with 'for' to show duration up to now.",
+    "grammar_explanation_vi": "Dùng thì hiện tại hoàn thành (have/has + động từ phân từ 2) với 'for' để chỉ khoảng thời gian tính đến hiện tại."
+  },
+  {
+    "id": "B_DL_HOBBY_004",
+    "level": "Beginner",
+    "topic": "Daily Conversation",
+    "sub_topic": "Talking About Hobbies",
+    "difficulty_tier": "A1",
+    "ai_question": "Do you prefer indoor or outdoor activities?",
+    "sample_pattern": "I prefer outdoor activities to indoor ones.",
+    "keywords": [
+      "prefer...to"
+    ],
+    "common_mistakes": [
+      "Using 'than' instead of 'to' after 'prefer'"
+    ],
+    "follow_up_question": "What outdoor activities do you enjoy?",
+    "grammar_explanation_en": "Use 'prefer A to B' to compare two preferences, not 'than'.",
+    "grammar_explanation_vi": "Dùng 'prefer A to B' để so sánh hai điều thích hơn, không dùng 'than'."
+  },
+  {
+    "id": "B_DL_HOBBY_005",
+    "level": "Beginner",
+    "topic": "Daily Conversation",
+    "sub_topic": "Talking About Hobbies",
+    "difficulty_tier": "A1",
+    "ai_question": "Can you play any musical instruments?",
+    "sample_pattern": "Yes, I can play the guitar.",
+    "keywords": [
+      "play the guitar"
+    ],
+    "common_mistakes": [
+      "Missing 'the' before a musical instrument"
+    ],
+    "follow_up_question": "How long have you been playing the guitar?",
+    "grammar_explanation_en": "Use 'the' before the name of a musical instrument (play the guitar).",
+    "grammar_explanation_vi": "Dùng 'the' trước tên nhạc cụ (play the guitar)."
+  },
+  {
+    "id": "B_DL_HOBBY_006",
+    "level": "Beginner",
+    "topic": "Daily Conversation",
+    "sub_topic": "Talking About Hobbies",
+    "difficulty_tier": "A2",
+    "ai_question": "When did you start this hobby?",
+    "sample_pattern": "I started this hobby two years ago.",
+    "keywords": [
+      "started",
+      "two years ago"
+    ],
+    "common_mistakes": [
+      "Using base verb instead of past form '-ed'"
+    ],
+    "follow_up_question": "What made you want to start?",
+    "grammar_explanation_en": "Regular verbs add '-ed' in the past simple (start -> started).",
+    "grammar_explanation_vi": "Động từ có quy tắc thêm '-ed' ở thì quá khứ đơn (start -> started)."
+  },
+  {
+    "id": "B_DL_HOBBY_007",
+    "level": "Beginner",
+    "topic": "Daily Conversation",
+    "sub_topic": "Talking About Hobbies",
+    "difficulty_tier": "A1",
+    "ai_question": "Do you watch movies often?",
+    "sample_pattern": "Yes, I watch movies every weekend.",
+    "keywords": [
+      "every weekend"
+    ],
+    "common_mistakes": [
+      "Missing 's' — check base form with 'I' subject"
+    ],
+    "follow_up_question": "What is your favorite type of movie?",
+    "grammar_explanation_en": "With 'I/you/we/they', the verb stays in its base form in the present simple (I watch).",
+    "grammar_explanation_vi": "Với chủ ngữ 'I/you/we/they', động từ giữ nguyên dạng gốc ở thì hiện tại đơn (I watch)."
+  },
+  {
+    "id": "B_DL_HOBBY_008",
+    "level": "Beginner",
+    "topic": "Daily Conversation",
+    "sub_topic": "Talking About Hobbies",
+    "difficulty_tier": "A1",
+    "ai_question": "Do you enjoy cooking at home?",
+    "sample_pattern": "Yes, I enjoy cooking at home very much.",
+    "keywords": [
+      "enjoy cooking"
+    ],
+    "common_mistakes": [
+      "Using base verb instead of the -ing form after 'enjoy'"
+    ],
+    "follow_up_question": "What is your favorite dish to cook?",
+    "grammar_explanation_en": "'Enjoy' is followed by a verb ending in -ing (enjoy cooking), not the base form.",
+    "grammar_explanation_vi": "'Enjoy' đi kèm động từ đuôi -ing (enjoy cooking), không dùng dạng nguyên mẫu."
+  }
+]
